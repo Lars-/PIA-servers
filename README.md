@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers
 
-![Servers](https://img.shields.io/badge/servers-14170-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2020--10--30%2002%3A00-brightgreen) 
+![Servers](https://img.shields.io/badge/servers-14169-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2020--10--30%2003%3A00-brightgreen) 
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -80,7 +80,7 @@ US Dallas | [8 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/
 US Denver | [9 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/US%20Denver) | [279 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/US%20Denver) | [288 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/US%20Denver)
 US East | [139 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/US%20East) | No servers | [139 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/US%20East)
 US Florida | [20 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/US%20Florida) | [507 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/US%20Florida) | [527 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/US%20Florida)
-US Houston | [16 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/US%20Houston) | [229 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/US%20Houston) | [245 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/US%20Houston)
+US Houston | [16 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/US%20Houston) | [228 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/US%20Houston) | [244 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/US%20Houston)
 US Las Vegas | [37 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/US%20Las%20Vegas) | No servers | [37 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/US%20Las%20Vegas)
 US New York City | [5 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/US%20New%20York%20City) | No servers | [5 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/US%20New%20York%20City)
 US Seattle | [7 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/US%20Seattle) | [357 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/US%20Seattle) | [364 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/US%20Seattle)
