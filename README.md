@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers
 
-![Servers](https://img.shields.io/badge/servers-4035-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2020--12--11%2016%3A00-brightgreen) 
+![Servers](https://img.shields.io/badge/servers-4036-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2020--12--11%2017%3A00-brightgreen) 
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -111,7 +111,7 @@ Mongolia | No servers | [8 servers](https://github.com/Lars-/PIA-servers/tree/ma
 Montenegro | No servers | [5 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Montenegro) | [5 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Montenegro)
 Morocco | No servers | [7 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Morocco) | [7 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Morocco)
 Nigeria | No servers | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Nigeria) | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Nigeria)
-Panama | No servers | [6 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Panama) | [6 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Panama)
+Panama | No servers | [7 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Panama) | [7 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Panama)
 Philippines | No servers | [7 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Philippines) | [7 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Philippines)
 Qatar | No servers | [7 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Qatar) | [7 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Qatar)
 Saudi Arabia | No servers | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Saudi%20Arabia) | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Saudi%20Arabia)
