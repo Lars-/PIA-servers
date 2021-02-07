@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers
 
-![Servers](https://img.shields.io/badge/servers-3965-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2021--02--07%2006%3A00-brightgreen) 
+![Servers](https://img.shields.io/badge/servers-3964-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2021--02--07%2007%3A00-brightgreen) 
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -106,7 +106,7 @@ Liechtenstein | No servers | [3 servers](https://github.com/Lars-/PIA-servers/tr
 Macao | No servers | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Macao) | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Macao)
 Malta | No servers | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Malta) | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Malta)
 Mexico | No servers | [27 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Mexico) | [27 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Mexico)
-Monaco | No servers | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Monaco) | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Monaco)
+Monaco | No servers | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Monaco) | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Monaco)
 Mongolia | No servers | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Mongolia) | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Mongolia)
 Montenegro | No servers | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Montenegro) | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Montenegro)
 Morocco | No servers | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Morocco) | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Morocco)
