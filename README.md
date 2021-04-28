@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers
 
-![Servers](https://img.shields.io/badge/servers-4257-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2021--04--29%2000%3A00-brightgreen) 
+![Servers](https://img.shields.io/badge/servers-4260-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2021--04--29%2001%3A00-brightgreen) 
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -48,13 +48,13 @@ Iceland | [5 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Ic
 India | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/India) | [8 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/India) | [12 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/India)
 Ireland | [6 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Ireland) | [20 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Ireland) | [26 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Ireland)
 Israel | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Israel) | [20 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Israel) | [24 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Israel)
-Italy | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Italy) | [38 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Italy) | [42 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Italy)
+Italy | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Italy) | [39 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Italy) | [43 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Italy)
 Japan | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Japan) | [39 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Japan) | [43 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Japan)
 Latvia | [5 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Latvia) | No servers | [5 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Latvia)
 Lithuania | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Lithuania) | No servers | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Lithuania)
 Luxembourg | [8 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Luxembourg) | [10 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Luxembourg) | [18 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Luxembourg)
 Moldova | [5 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Moldova) | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Moldova) | [9 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Moldova)
-Netherlands | [8 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Netherlands) | [278 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Netherlands) | [286 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Netherlands)
+Netherlands | [8 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Netherlands) | [280 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Netherlands) | [288 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Netherlands)
 New Zealand | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/New%20Zealand) | [37 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/New%20Zealand) | [41 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/New%20Zealand)
 North Macedonia | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/North%20Macedonia) | No servers | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/North%20Macedonia)
 Norway | [5 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Norway) | [22 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Norway) | [27 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Norway)
