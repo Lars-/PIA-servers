@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers
 
-![Servers](https://img.shields.io/badge/servers-4260-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2021--04--28%2001%3A00-brightgreen) 
+![Servers](https://img.shields.io/badge/servers-4257-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2021--04--28%2002%3A00-brightgreen) 
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -22,7 +22,7 @@ Private Internet Access provides two types, the normal servers and the "nextgen 
 
 Region | Normal | Nextgen | Combined
 ------ | ------ | ------- | --------
-AU Melbourne | [19 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/AU%20Melbourne) | [66 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/AU%20Melbourne) | [85 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/AU%20Melbourne)
+AU Melbourne | [18 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/AU%20Melbourne) | [66 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/AU%20Melbourne) | [84 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/AU%20Melbourne)
 AU Perth | [7 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/AU%20Perth) | [37 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/AU%20Perth) | [44 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/AU%20Perth)
 AU Sydney | [23 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/AU%20Sydney) | [79 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/AU%20Sydney) | [102 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/AU%20Sydney)
 Albania | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Albania) | No servers | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Albania)
@@ -51,7 +51,7 @@ Israel | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Isr
 Italy | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Italy) | [38 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Italy) | [42 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Italy)
 Japan | [5 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Japan) | [39 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Japan) | [44 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Japan)
 Latvia | [5 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Latvia) | No servers | [5 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Latvia)
-Lithuania | [5 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Lithuania) | No servers | [5 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Lithuania)
+Lithuania | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Lithuania) | No servers | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Lithuania)
 Luxembourg | [8 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Luxembourg) | [10 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Luxembourg) | [18 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Luxembourg)
 Moldova | [5 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Moldova) | [5 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Moldova) | [10 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Moldova)
 Netherlands | [8 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Netherlands) | [273 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Netherlands) | [281 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Netherlands)
@@ -64,7 +64,7 @@ Romania | [22 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/R
 Serbia | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Serbia) | [15 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Serbia) | [18 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Serbia)
 Singapore | [6 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Singapore) | [44 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Singapore) | [50 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Singapore)
 Slovakia | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Slovakia) | No servers | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Slovakia)
-South Africa | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/South%20Africa) | [7 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/South%20Africa) | [11 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/South%20Africa)
+South Africa | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/South%20Africa) | [7 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/South%20Africa) | [10 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/South%20Africa)
 Spain | [5 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Spain) | [51 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Spain) | [56 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Spain)
 Sweden | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Sweden) | [34 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Sweden) | [38 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Sweden)
 Switzerland | [9 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Switzerland) | [93 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Switzerland) | [102 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Switzerland)
