@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers
 
-![Servers](https://img.shields.io/badge/servers-4386-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2021--06--02%2009%3A00-brightgreen) 
+![Servers](https://img.shields.io/badge/servers-4383-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2021--06--02%2010%3A00-brightgreen) 
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -24,7 +24,7 @@ Region | Normal | Nextgen | Combined
 ------ | ------ | ------- | --------
 AU Melbourne | [14 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/AU%20Melbourne) | [66 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/AU%20Melbourne) | [80 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/AU%20Melbourne)
 AU Perth | [13 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/AU%20Perth) | [37 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/AU%20Perth) | [50 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/AU%20Perth)
-AU Sydney | [13 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/AU%20Sydney) | [156 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/AU%20Sydney) | [169 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/AU%20Sydney)
+AU Sydney | [13 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/AU%20Sydney) | [153 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/AU%20Sydney) | [166 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/AU%20Sydney)
 Albania | [13 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Albania) | No servers | [13 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Albania)
 Argentina | [13 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Argentina) | [13 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Argentina) | [26 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Argentina)
 Austria | [13 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Austria) | [11 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Austria) | [24 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Austria)
