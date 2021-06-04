@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers
 
-![Servers](https://img.shields.io/badge/servers-4186-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2021--06--04%2003%3A00-brightgreen) 
+![Servers](https://img.shields.io/badge/servers-4190-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2021--06--04%2004%3A00-brightgreen) 
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -22,7 +22,7 @@ Private Internet Access provides two types, the normal servers and the "nextgen 
 
 Region | Normal | Nextgen | Combined
 ------ | ------ | ------- | --------
-AU Melbourne | [11 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/AU%20Melbourne) | [66 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/AU%20Melbourne) | [77 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/AU%20Melbourne)
+AU Melbourne | [11 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/AU%20Melbourne) | [70 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/AU%20Melbourne) | [81 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/AU%20Melbourne)
 AU Perth | [10 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/AU%20Perth) | [37 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/AU%20Perth) | [47 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/AU%20Perth)
 AU Sydney | [10 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/AU%20Sydney) | [153 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/AU%20Sydney) | [163 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/AU%20Sydney)
 Albania | [10 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Albania) | No servers | [10 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Albania)
