@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers
 
-![Servers](https://img.shields.io/badge/servers-3029-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2021--07--26%2011%3A00-brightgreen) 
+![Servers](https://img.shields.io/badge/servers-3028-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2021--07--26%2012%3A00-brightgreen) 
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -40,7 +40,7 @@ DE Berlin | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/
 DE Frankfurt | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/DE%20Frankfurt) | [35 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/DE%20Frankfurt) | [37 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/DE%20Frankfurt)
 Denmark | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Denmark) | [22 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Denmark) | [24 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Denmark)
 Estonia | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Estonia) | No servers | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Estonia)
-Finland | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Finland) | [22 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Finland) | [24 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Finland)
+Finland | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Finland) | [21 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Finland) | [23 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Finland)
 France | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/France) | [28 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/France) | [30 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/France)
 Greece | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Greece) | No servers | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Greece)
 Hungary | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Hungary) | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Hungary) | [6 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Hungary)
