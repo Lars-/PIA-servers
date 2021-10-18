@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers
 
-![Servers](https://img.shields.io/badge/servers-3059-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2021--10--18%2006%3A00-brightgreen) 
+![Servers](https://img.shields.io/badge/servers-3061-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2021--10--18%2007%3A00-brightgreen) 
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -22,7 +22,7 @@ Private Internet Access provides two types, the normal servers and the "nextgen 
 
 Region | Normal | Nextgen | Combined
 ------ | ------ | ------- | --------
-AU Melbourne | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/AU%20Melbourne) | [72 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/AU%20Melbourne) | [74 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/AU%20Melbourne)
+AU Melbourne | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/AU%20Melbourne) | [73 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/AU%20Melbourne) | [75 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/AU%20Melbourne)
 AU Perth | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/AU%20Perth) | [37 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/AU%20Perth) | [39 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/AU%20Perth)
 AU Sydney | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/AU%20Sydney) | [93 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/AU%20Sydney) | [95 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/AU%20Sydney)
 Albania | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Albania) | No servers | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Albania)
@@ -58,7 +58,7 @@ Netherlands | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/norma
 New Zealand | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/New%20Zealand) | [37 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/New%20Zealand) | [39 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/New%20Zealand)
 North Macedonia | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/North%20Macedonia) | No servers | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/North%20Macedonia)
 Norway | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Norway) | [22 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Norway) | [24 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Norway)
-Poland | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Poland) | [10 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Poland) | [12 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Poland)
+Poland | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Poland) | [10 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Poland) | [13 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Poland)
 Portugal | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Portugal) | No servers | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Portugal)
 Romania | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Romania) | [24 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Romania) | [26 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Romania)
 Serbia | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Serbia) | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Serbia) | [6 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Serbia)
