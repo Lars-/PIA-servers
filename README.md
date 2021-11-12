@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers
 
-![Servers](https://img.shields.io/badge/servers-3119-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2021--11--12%2006%3A00-brightgreen) 
+![Servers](https://img.shields.io/badge/servers-3120-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2021--11--12%2007%3A00-brightgreen) 
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -61,7 +61,7 @@ Norway | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Nor
 Poland | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Poland) | [10 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Poland) | [13 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Poland)
 Portugal | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Portugal) | No servers | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Portugal)
 Romania | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Romania) | [24 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Romania) | [26 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Romania)
-Serbia | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Serbia) | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Serbia) | [6 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Serbia)
+Serbia | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Serbia) | [5 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Serbia) | [7 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Serbia)
 Singapore | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Singapore) | [22 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Singapore) | [24 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Singapore)
 Slovakia | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Slovakia) | No servers | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Slovakia)
 South Africa | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/South%20Africa) | [6 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/South%20Africa) | [8 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/South%20Africa)
