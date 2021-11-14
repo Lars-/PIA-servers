@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers
 
-![Servers](https://img.shields.io/badge/servers-3114-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2021--11--14%2004%3A00-brightgreen) 
+![Servers](https://img.shields.io/badge/servers-3113-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2021--11--14%2005%3A00-brightgreen) 
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -94,7 +94,7 @@ Armenia | No servers | [2 servers](https://github.com/Lars-/PIA-servers/tree/mas
 Bahamas | No servers | [8 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Bahamas) | [8 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Bahamas)
 Bangladesh | No servers | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Bangladesh) | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Bangladesh)
 Cambodia | No servers | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Cambodia) | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Cambodia)
-China | No servers | [11 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/China) | [11 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/China)
+China | No servers | [10 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/China) | [10 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/China)
 Cyprus | No servers | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Cyprus) | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Cyprus)
 Egypt | No servers | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Egypt) | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Egypt)
 Georgia | No servers | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Georgia) | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Georgia)
