@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers
 
-![Servers](https://img.shields.io/badge/servers-3221-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2021--11--19%2003%3A00-brightgreen) 
+![Servers](https://img.shields.io/badge/servers-3222-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2021--11--19%2004%3A00-brightgreen) 
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -44,7 +44,7 @@ Finland | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Fi
 France | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/France) | [29 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/France) | [32 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/France)
 Greece | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Greece) | No servers | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Greece)
 Hungary | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Hungary) | [5 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Hungary) | [8 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Hungary)
-Iceland | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Iceland) | [10 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Iceland) | [13 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Iceland)
+Iceland | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Iceland) | [11 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Iceland) | [14 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Iceland)
 India | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/India) | [9 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/India) | [12 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/India)
 Ireland | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Ireland) | [21 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Ireland) | [24 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Ireland)
 Israel | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Israel) | [21 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Israel) | [24 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Israel)
