@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers
 
-![Servers](https://img.shields.io/badge/servers-3074-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2022--01--05%2008%3A00-brightgreen) 
+![Servers](https://img.shields.io/badge/servers-3069-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2022--01--05%2009%3A00-brightgreen) 
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -49,7 +49,7 @@ India | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Indi
 Ireland | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Ireland) | [20 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Ireland) | [22 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Ireland)
 Israel | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Israel) | [20 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Israel) | [23 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Israel)
 Italy | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Italy) | [17 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Italy) | [19 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Italy)
-Japan | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Japan) | [16 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Japan) | [19 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Japan)
+Japan | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Japan) | [12 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Japan) | [15 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Japan)
 Latvia | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Latvia) | No servers | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Latvia)
 Lithuania | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Lithuania) | No servers | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Lithuania)
 Luxembourg | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Luxembourg) | [10 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Luxembourg) | [13 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Luxembourg)
@@ -70,7 +70,7 @@ Sweden | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Swe
 Switzerland | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Switzerland) | [44 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Switzerland) | [47 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Switzerland)
 Turkey | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Turkey) | [4 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Turkey) | [6 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Turkey)
 UAE | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/UAE) | No servers | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/UAE)
-UK London | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/UK%20London) | [110 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/UK%20London) | [112 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/UK%20London)
+UK London | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/UK%20London) | [109 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/UK%20London) | [111 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/UK%20London)
 UK Manchester | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/UK%20Manchester) | [31 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/UK%20Manchester) | [33 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/UK%20Manchester)
 UK Southampton | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/UK%20Southampton) | No servers | [3 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/UK%20Southampton)
 US Atlanta | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/US%20Atlanta) | [118 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/US%20Atlanta) | [120 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/US%20Atlanta)
