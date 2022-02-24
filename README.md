@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers
 
-![Servers](https://img.shields.io/badge/servers-15356-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2022--02--24%2008%3A00-brightgreen) 
+![Servers](https://img.shields.io/badge/servers-15358-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2022--02--24%2009%3A00-brightgreen) 
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -33,7 +33,7 @@ Bosnia and Herzegovina | [2 servers](https://github.com/Lars-/PIA-servers/tree/m
 Bulgaria | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Bulgaria) | [10 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Bulgaria) | [12 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Bulgaria)
 CA Montreal | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/CA%20Montreal) | [485 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/CA%20Montreal) | [487 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/CA%20Montreal)
 CA Ontario | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/CA%20Ontario) | No servers | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/CA%20Ontario)
-CA Toronto | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/CA%20Toronto) | [623 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/CA%20Toronto) | [625 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/CA%20Toronto)
+CA Toronto | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/CA%20Toronto) | [624 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/CA%20Toronto) | [626 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/CA%20Toronto)
 CA Vancouver | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/CA%20Vancouver) | No servers | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/CA%20Vancouver)
 Czech Republic | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Czech%20Republic) | [94 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Czech%20Republic) | [96 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Czech%20Republic)
 DE Berlin | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/DE%20Berlin) | [140 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/DE%20Berlin) | [142 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/DE%20Berlin)
@@ -75,7 +75,7 @@ UK Manchester | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/nor
 UK Southampton | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/UK%20Southampton) | No servers | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/UK%20Southampton)
 US Atlanta | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/US%20Atlanta) | [606 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/US%20Atlanta) | [608 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/US%20Atlanta)
 US California | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/US%20California) | [503 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/US%20California) | [505 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/US%20California)
-US Chicago | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/US%20Chicago) | [814 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/US%20Chicago) | [816 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/US%20Chicago)
+US Chicago | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/US%20Chicago) | [815 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/US%20Chicago) | [817 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/US%20Chicago)
 US Dallas | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/US%20Dallas) | No servers | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/US%20Dallas)
 US Denver | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/US%20Denver) | [536 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/US%20Denver) | [538 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/US%20Denver)
 US East | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/US%20East) | No servers | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/US%20East)
