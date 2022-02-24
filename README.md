@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers
 
-![Servers](https://img.shields.io/badge/servers-15353-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2022--02--24%2002%3A00-brightgreen) 
+![Servers](https://img.shields.io/badge/servers-15353-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2022--02--24%2003%3A00-brightgreen) 
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -86,7 +86,7 @@ US New York City | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/
 US Seattle | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/US%20Seattle) | [493 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/US%20Seattle) | [495 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/US%20Seattle)
 US Silicon Valley | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/US%20Silicon%20Valley) | [654 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/US%20Silicon%20Valley) | [656 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/US%20Silicon%20Valley)
 US Washington DC | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/US%20Washington%20DC) | [562 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/US%20Washington%20DC) | [564 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/US%20Washington%20DC)
-US West | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/US%20West) | [630 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/US%20West) | [632 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/US%20West)
+US West | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/US%20West) | [629 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/US%20West) | [631 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/US%20West)
 Ukraine | [2 servers](https://github.com/Lars-/PIA-servers/tree/master/normal/Ukraine) | [58 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Ukraine) | [60 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Ukraine)
 Algeria | No servers | [23 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Algeria) | [23 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Algeria)
 Andorra | No servers | [36 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Andorra) | [36 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Andorra)
@@ -118,7 +118,7 @@ Saudi Arabia | No servers | [28 servers](https://github.com/Lars-/PIA-servers/tr
 Sri Lanka | No servers | [11 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Sri%20Lanka) | [11 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Sri%20Lanka)
 Taiwan | No servers | [50 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Taiwan) | [50 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Taiwan)
 US New Jersey | No servers | [519 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/US%20New%20Jersey) | [519 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/US%20New%20Jersey)
-US New York | No servers | [875 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/US%20New%20York) | [875 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/US%20New%20York)
+US New York | No servers | [876 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/US%20New%20York) | [876 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/US%20New%20York)
 US Texas | No servers | [779 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/US%20Texas) | [779 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/US%20Texas)
 United Arab Emirates | No servers | [26 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/United%20Arab%20Emirates) | [26 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/United%20Arab%20Emirates)
 Venezuela | No servers | [45 servers](https://github.com/Lars-/PIA-servers/tree/master/nextgen/Venezuela) | [45 servers](https://github.com/Lars-/PIA-servers/tree/master/combined/Venezuela)
