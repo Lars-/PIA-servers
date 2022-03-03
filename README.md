@@ -1,5 +1,5 @@
 # PIA Servers
-This repository contains an automatically updated list of all Private Internet Access servers
+This repository contains an automatically updated list of all Private Internet Access servers.
 
 ![Servers](https://img.shields.io/badge/servers-1309-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2022--03--03%2017%3A42%20CET-brightgreen) 
 
@@ -7,7 +7,7 @@ This repository contains an automatically updated list of all Private Internet A
 
 ## Check if you are connected
 A little thing PIA doesn't provide is a way to check if you are connected to their network without going to their website.
-Thanks to @lucasrangit, this can now be checked by executing the following command:
+Thanks to [@lucasrangit](https://github.com/lucasrangit), this can now be checked by executing the following command:
 ```bash
 curl -s https://lars-.github.io/PIA-servers/$(curl -s https://ipinfo.io/ip)
 ```
