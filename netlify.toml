@@ -6,5 +6,5 @@
 
 [[redirects]]
   from = '/*'
-  to = '/.netlify/functions/hello'
+  to = '/.netlify/functions/check'
   status = 200
