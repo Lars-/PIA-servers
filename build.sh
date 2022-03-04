@@ -7,7 +7,7 @@ pushd docs 2>&1 > /dev/null
 files=([0-9]*.[0-9]*.[0-9]*.[0-9]*)
 popd 2>&1 > /dev/null
 
-cat << EOF > netlify/functions/hello.js
+cat << EOF > netlify/functions/check.js
 exports.handler = async (event, context) => {
   const servers = "${files[@]}";
   client_ip = event.headers['x-nf-client-connection-ip'];
