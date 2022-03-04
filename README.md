@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-7479-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2022--03--04%2009%3A10%20CET-brightgreen) 
+![Servers](https://img.shields.io/badge/servers-7479-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2022--03--04%2009%3A10%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -9,7 +9,7 @@ This repository contains an automatically updated list of all Private Internet A
 A little thing PIA doesn't provide is a way to check if you are connected to their network without going to their website.
 Thanks to [@lucasrangit](https://github.com/lucasrangit), this can now be checked by executing the following command:
 ```bash
-curl -s https://lars-.github.io/PIA-servers/$(curl -s https://ipinfo.io/ip)
+curl -s https://pia-servers.netlify.app/check
 ```
 
 When you are connected, you will see: `You are connected to PIA`.
@@ -133,8 +133,8 @@ Vietnam | [23](https://github.com/Lars-/PIA-servers/tree/master/regions/Vietnam)
 
 
 ## Disclaimer
-I am not affiliated with PIA and therefore do not include any affiliate links in this repository. 
-All actions could have been done by anyone. This is in no way considered or meant as hacking. 
+I am not affiliated with PIA and therefore do not include any affiliate links in this repository.
+All actions could have been done by anyone. This is in no way considered or meant as hacking.
 If servers or OVPN files don't work, it is not the fault of this repository. If you don't need anything special, just use the files provided by PIA themselves.
 
 ## Ideas or contributions
