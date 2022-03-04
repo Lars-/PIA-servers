@@ -1,3 +1,6 @@
+[build]
+  publish = "docs/"
+
 [[redirects]]
   from = '/*'
   to = '/.netlify/functions/hello'
