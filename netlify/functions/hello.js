@@ -4,6 +4,6 @@ exports.handler = async (event, context) => {
   protected_status = servers.includes(client_ip) ? "You are protected by PIA" : "You are not protected by PIA";
   return {
     statusCode: 200,
-    body: "Hello, " + client_ip + '\n' + protected_status,
+    body: "Hello, " + client_ip + '\n' + protected_status + '\n',
   };
 };
