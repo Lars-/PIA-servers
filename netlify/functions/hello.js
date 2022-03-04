@@ -1,6 +1,6 @@
 exports.handler = async (event, context) => {
   return {
     statusCode: 200,
-    body: "Hello, World"
+    body: "Hello, " + event.headers['x-nf-client-connection-ip']
   };
 };
