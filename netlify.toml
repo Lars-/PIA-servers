@@ -5,6 +5,6 @@
   directory = "/netlify/functions/"
 
 [[redirects]]
-  from = '/*'
+  from = '/check'
   to = '/.netlify/functions/check'
   status = 200
