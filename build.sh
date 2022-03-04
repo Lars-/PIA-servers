@@ -3,7 +3,6 @@
 set -o errexit
 shopt -s globstar
 
-
 pushd docs 2>&1 > /dev/null
 files=([0-9]*.[0-9]*.[0-9]*.[0-9]*)
 popd 2>&1 > /dev/null
@@ -15,7 +14,7 @@ exports.handler = async (event, context) => {
   protected_status = servers.includes(client_ip) ? "You are protected by PIA" : "You are not protected by PIA";
   return {
     statusCode: 200,
-    body: "Hello, " + client_ip + '\n' + protected_status,
+    body: "Hello, " + client_ip + '\n' + protected_status + '\n',
   };
 };
 EOF
