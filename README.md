@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-17331-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2022--06--04%2007%3A59%20CET-brightgreen) 
+![Servers](https://img.shields.io/badge/servers-17332-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2022--06--04%2013%3A59%20CET-brightgreen) 
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -122,7 +122,7 @@ US Houston | [314](https://github.com/Lars-/PIA-servers/tree/master/regions/US%2
 US Las Vegas | [728](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Las%20Vegas)
 US New York | [730](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20New%20York)
 US Seattle | [467](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Seattle)
-US Silicon Valley | [705](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Silicon%20Valley)
+US Silicon Valley | [706](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Silicon%20Valley)
 US Texas | [744](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Texas)
 US Washington Dc | [563](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Washington%20Dc)
 US West | [629](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West)
