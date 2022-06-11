@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-17671-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2022--06--11%2013%3A59%20CET-brightgreen) 
+![Servers](https://img.shields.io/badge/servers-17657-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2022--06--11%2019%3A59%20CET-brightgreen) 
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -46,7 +46,7 @@ Bahamas | [78](https://github.com/Lars-/PIA-servers/tree/master/regions/Bahamas)
 Bangladesh | [13](https://github.com/Lars-/PIA-servers/tree/master/regions/Bangladesh)
 Belgium | [223](https://github.com/Lars-/PIA-servers/tree/master/regions/Belgium)
 Brazil | [57](https://github.com/Lars-/PIA-servers/tree/master/regions/Brazil)
-Bulgaria | [10](https://github.com/Lars-/PIA-servers/tree/master/regions/Bulgaria)
+Bulgaria | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/Bulgaria)
 CA Montreal | [708](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Montreal)
 CA Ontario | [504](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Ontario)
 CA Toronto | [570](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Toronto)
@@ -80,7 +80,7 @@ Liechtenstein | [29](https://github.com/Lars-/PIA-servers/tree/master/regions/Li
 Lithuania | [42](https://github.com/Lars-/PIA-servers/tree/master/regions/Lithuania)
 Luxembourg | [44](https://github.com/Lars-/PIA-servers/tree/master/regions/Luxembourg)
 Macao | [13](https://github.com/Lars-/PIA-servers/tree/master/regions/Macao)
-Macedonia | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/Macedonia)
+Macedonia | [11](https://github.com/Lars-/PIA-servers/tree/master/regions/Macedonia)
 Malta | [37](https://github.com/Lars-/PIA-servers/tree/master/regions/Malta)
 Mexico | [127](https://github.com/Lars-/PIA-servers/tree/master/regions/Mexico)
 Moldova | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Moldova)
