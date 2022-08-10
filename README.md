@@ -9,7 +9,7 @@ This repository contains an automatically updated list of all Private Internet A
 A little thing PIA doesn't provide is a way to check if you are connected to their network without going to their website.
 Thanks to [@lucasrangit](https://github.com/lucasrangit), this can now be checked by executing the following command:
 ```bash
-curl -s https://lars-.github.io/PIA-servers/$(curl ifconfig.me)
+curl -s https://lars-.github.io/PIA-servers/$(curl -s ifconfig.me)
 ```
 
 When you are connected, you will see: `You are connected to PIA`.
