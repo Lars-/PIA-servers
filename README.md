@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-15838-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2022--12--16%2022%3A59%20CET-brightgreen) 
+![Servers](https://img.shields.io/badge/servers-15855-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2022--12--16%2023%3A29%20CET-brightgreen) 
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -47,10 +47,10 @@ Bangladesh | [13](https://github.com/Lars-/PIA-servers/tree/master/regions/Bangl
 Belgium | [45](https://github.com/Lars-/PIA-servers/tree/master/regions/Belgium)
 Brazil | [57](https://github.com/Lars-/PIA-servers/tree/master/regions/Brazil)
 Bulgaria | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/Bulgaria)
-CA Montreal | [628](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Montreal)
-CA Ontario | [506](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Ontario)
-CA Toronto | [550](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Toronto)
-CA Vancouver | [690](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Vancouver)
+CA Montreal | [629](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Montreal)
+CA Ontario | [508](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Ontario)
+CA Toronto | [554](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Toronto)
+CA Vancouver | [694](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Vancouver)
 Cambodia | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Cambodia)
 China | [38](https://github.com/Lars-/PIA-servers/tree/master/regions/China)
 Cyprus | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Cyprus)
@@ -59,7 +59,7 @@ DE Berlin | [159](https://github.com/Lars-/PIA-servers/tree/master/regions/DE%20
 DE Frankfurt | [365](https://github.com/Lars-/PIA-servers/tree/master/regions/DE%20Frankfurt)
 Denmark | [96](https://github.com/Lars-/PIA-servers/tree/master/regions/Denmark)
 Egypt | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Egypt)
-Estonia | [104](https://github.com/Lars-/PIA-servers/tree/master/regions/Estonia)
+Estonia | [105](https://github.com/Lars-/PIA-servers/tree/master/regions/Estonia)
 Finland | [84](https://github.com/Lars-/PIA-servers/tree/master/regions/Finland)
 France | [116](https://github.com/Lars-/PIA-servers/tree/master/regions/France)
 Georgia | [22](https://github.com/Lars-/PIA-servers/tree/master/regions/Georgia)
@@ -119,13 +119,13 @@ US Denver | [279](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20
 US East | [481](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20East)
 US Florida | [407](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Florida)
 US Houston | [196](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Houston)
-US Las Vegas | [552](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Las%20Vegas)
-US New York | [549](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20New%20York)
+US Las Vegas | [553](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Las%20Vegas)
+US New York | [550](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20New%20York)
 US Seattle | [392](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Seattle)
-US Silicon Valley | [548](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Silicon%20Valley)
-US Texas | [640](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Texas)
+US Silicon Valley | [549](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Silicon%20Valley)
+US Texas | [641](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Texas)
 US Washington Dc | [499](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Washington%20Dc)
-US West | [524](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West)
+US West | [525](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West)
 Ukraine | [25](https://github.com/Lars-/PIA-servers/tree/master/regions/Ukraine)
 United Arab Emirates | [38](https://github.com/Lars-/PIA-servers/tree/master/regions/United%20Arab%20Emirates)
 Venezuela | [45](https://github.com/Lars-/PIA-servers/tree/master/regions/Venezuela)
