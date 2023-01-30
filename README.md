@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-18632-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2023--01--30%2001%3A29%20CET-brightgreen) 
+![Servers](https://img.shields.io/badge/servers-18629-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2023--01--30%2001%3A59%20CET-brightgreen) 
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -124,8 +124,8 @@ US New York | [638](https://github.com/Lars-/PIA-servers/tree/master/regions/US%
 US Seattle | [672](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Seattle)
 US Silicon Valley | [706](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Silicon%20Valley)
 US Texas | [744](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Texas)
-US Washington Dc | [984](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Washington%20Dc)
-US West | [454](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West)
+US Washington Dc | [983](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Washington%20Dc)
+US West | [452](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West)
 Ukraine | [25](https://github.com/Lars-/PIA-servers/tree/master/regions/Ukraine)
 United Arab Emirates | [38](https://github.com/Lars-/PIA-servers/tree/master/regions/United%20Arab%20Emirates)
 Venezuela | [45](https://github.com/Lars-/PIA-servers/tree/master/regions/Venezuela)
