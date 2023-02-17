@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-17818-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2023--02--17%2017%3A29%20CET-brightgreen) 
+![Servers](https://img.shields.io/badge/servers-17822-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2023--02--17%2017%3A59%20CET-brightgreen) 
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -72,7 +72,7 @@ India | [30](https://github.com/Lars-/PIA-servers/tree/master/regions/India)
 Ireland | [132](https://github.com/Lars-/PIA-servers/tree/master/regions/Ireland)
 Isle Of Man | [29](https://github.com/Lars-/PIA-servers/tree/master/regions/Isle%20Of%20Man)
 Israel | [52](https://github.com/Lars-/PIA-servers/tree/master/regions/Israel)
-Italy | [76](https://github.com/Lars-/PIA-servers/tree/master/regions/Italy)
+Italy | [78](https://github.com/Lars-/PIA-servers/tree/master/regions/Italy)
 Japan | [182](https://github.com/Lars-/PIA-servers/tree/master/regions/Japan)
 Kazakhstan | [23](https://github.com/Lars-/PIA-servers/tree/master/regions/Kazakhstan)
 Latvia | [60](https://github.com/Lars-/PIA-servers/tree/master/regions/Latvia)
@@ -107,7 +107,7 @@ Spain | [99](https://github.com/Lars-/PIA-servers/tree/master/regions/Spain)
 Sri Lanka | [11](https://github.com/Lars-/PIA-servers/tree/master/regions/Sri%20Lanka)
 Sweden | [186](https://github.com/Lars-/PIA-servers/tree/master/regions/Sweden)
 Switzerland | [225](https://github.com/Lars-/PIA-servers/tree/master/regions/Switzerland)
-Taiwan | [73](https://github.com/Lars-/PIA-servers/tree/master/regions/Taiwan)
+Taiwan | [74](https://github.com/Lars-/PIA-servers/tree/master/regions/Taiwan)
 Turkey | [40](https://github.com/Lars-/PIA-servers/tree/master/regions/Turkey)
 UK London | [447](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20London)
 UK Manchester | [225](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Manchester)
@@ -117,7 +117,7 @@ US California | [473](https://github.com/Lars-/PIA-servers/tree/master/regions/U
 US Chicago | [830](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Chicago)
 US Denver | [282](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Denver)
 US East | [518](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20East)
-US Florida | [453](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Florida)
+US Florida | [454](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Florida)
 US Houston | [197](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Houston)
 US Las Vegas | [611](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Las%20Vegas)
 US New York | [640](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20New%20York)
