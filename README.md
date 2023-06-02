@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-17989-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2023--06--03%2000%3A00%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-17990-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2023--06--03%2001%3A00%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -75,7 +75,7 @@ Israel | [52](https://github.com/Lars-/PIA-servers/tree/master/regions/Israel)
 Italy | [87](https://github.com/Lars-/PIA-servers/tree/master/regions/Italy)
 Japan | [180](https://github.com/Lars-/PIA-servers/tree/master/regions/Japan)
 Kazakhstan | [23](https://github.com/Lars-/PIA-servers/tree/master/regions/Kazakhstan)
-Latvia | [60](https://github.com/Lars-/PIA-servers/tree/master/regions/Latvia)
+Latvia | [59](https://github.com/Lars-/PIA-servers/tree/master/regions/Latvia)
 Liechtenstein | [29](https://github.com/Lars-/PIA-servers/tree/master/regions/Liechtenstein)
 Lithuania | [56](https://github.com/Lars-/PIA-servers/tree/master/regions/Lithuania)
 Luxembourg | [62](https://github.com/Lars-/PIA-servers/tree/master/regions/Luxembourg)
@@ -88,7 +88,7 @@ Monaco | [22](https://github.com/Lars-/PIA-servers/tree/master/regions/Monaco)
 Mongolia | [12](https://github.com/Lars-/PIA-servers/tree/master/regions/Mongolia)
 Montenegro | [26](https://github.com/Lars-/PIA-servers/tree/master/regions/Montenegro)
 Morocco | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Morocco)
-Netherlands | [694](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
+Netherlands | [696](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
 New Zealand | [183](https://github.com/Lars-/PIA-servers/tree/master/regions/New%20Zealand)
 Nigeria | [25](https://github.com/Lars-/PIA-servers/tree/master/regions/Nigeria)
 Norway | [112](https://github.com/Lars-/PIA-servers/tree/master/regions/Norway)
