@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-17970-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2023--06--08%2014%3A00%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-17979-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2023--06--08%2015%3A00%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -74,8 +74,8 @@ Isle Of Man | [29](https://github.com/Lars-/PIA-servers/tree/master/regions/Isle
 Israel | [52](https://github.com/Lars-/PIA-servers/tree/master/regions/Israel)
 Italy | [87](https://github.com/Lars-/PIA-servers/tree/master/regions/Italy)
 Japan | [180](https://github.com/Lars-/PIA-servers/tree/master/regions/Japan)
-Kazakhstan | [16](https://github.com/Lars-/PIA-servers/tree/master/regions/Kazakhstan)
-Latvia | [50](https://github.com/Lars-/PIA-servers/tree/master/regions/Latvia)
+Kazakhstan | [19](https://github.com/Lars-/PIA-servers/tree/master/regions/Kazakhstan)
+Latvia | [53](https://github.com/Lars-/PIA-servers/tree/master/regions/Latvia)
 Liechtenstein | [29](https://github.com/Lars-/PIA-servers/tree/master/regions/Liechtenstein)
 Lithuania | [56](https://github.com/Lars-/PIA-servers/tree/master/regions/Lithuania)
 Luxembourg | [62](https://github.com/Lars-/PIA-servers/tree/master/regions/Luxembourg)
@@ -109,7 +109,7 @@ Sweden | [186](https://github.com/Lars-/PIA-servers/tree/master/regions/Sweden)
 Switzerland | [225](https://github.com/Lars-/PIA-servers/tree/master/regions/Switzerland)
 Taiwan | [46](https://github.com/Lars-/PIA-servers/tree/master/regions/Taiwan)
 Turkey | [40](https://github.com/Lars-/PIA-servers/tree/master/regions/Turkey)
-UK London | [425](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20London)
+UK London | [428](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20London)
 UK Manchester | [225](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Manchester)
 UK Southampton | [161](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Southampton)
 Ukraine | [54](https://github.com/Lars-/PIA-servers/tree/master/regions/Ukraine)
