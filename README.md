@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-19111-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2023--11--10%2004%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-19113-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2023--11--10%2005%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -89,7 +89,7 @@ Mongolia | [12](https://github.com/Lars-/PIA-servers/tree/master/regions/Mongoli
 Montenegro | [26](https://github.com/Lars-/PIA-servers/tree/master/regions/Montenegro)
 Morocco | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Morocco)
 Netherlands | [937](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
-New Zealand | [180](https://github.com/Lars-/PIA-servers/tree/master/regions/New%20Zealand)
+New Zealand | [181](https://github.com/Lars-/PIA-servers/tree/master/regions/New%20Zealand)
 Nigeria | [25](https://github.com/Lars-/PIA-servers/tree/master/regions/Nigeria)
 Norway | [112](https://github.com/Lars-/PIA-servers/tree/master/regions/Norway)
 Panama | [71](https://github.com/Lars-/PIA-servers/tree/master/regions/Panama)
@@ -117,7 +117,7 @@ United Arab Emirates | [38](https://github.com/Lars-/PIA-servers/tree/master/reg
 US Atlanta | [691](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Atlanta)
 US California | [569](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20California)
 US Chicago | [917](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Chicago)
-US Denver | [253](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Denver)
+US Denver | [254](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Denver)
 US East | [335](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20East)
 US Florida | [568](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Florida)
 US Houston | [197](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Houston)
