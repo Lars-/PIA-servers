@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-19200-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2023--12--10%2005%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-19197-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2023--12--10%2006%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -117,12 +117,12 @@ United Arab Emirates | [38](https://github.com/Lars-/PIA-servers/tree/master/reg
 US Atlanta | [691](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Atlanta)
 US California | [568](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20California)
 US Chicago | [917](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Chicago)
-US Denver | [246](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Denver)
+US Denver | [244](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Denver)
 US East | [334](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20East)
 US Florida | [563](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Florida)
 US Houston | [197](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Houston)
 US Las Vegas | [610](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Las%20Vegas)
-US New York | [756](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20New%20York)
+US New York | [755](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20New%20York)
 US Seattle | [402](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Seattle)
 US Silicon Valley | [745](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Silicon%20Valley)
 US Texas | [878](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Texas)
