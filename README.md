@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-20191-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2023--12--29%2014%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-20193-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2023--12--29%2015%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -114,9 +114,9 @@ UK Manchester | [225](https://github.com/Lars-/PIA-servers/tree/master/regions/U
 UK Southampton | [321](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Southampton)
 Ukraine | [54](https://github.com/Lars-/PIA-servers/tree/master/regions/Ukraine)
 United Arab Emirates | [38](https://github.com/Lars-/PIA-servers/tree/master/regions/United%20Arab%20Emirates)
-US Atlanta | [694](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Atlanta)
+US Atlanta | [693](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Atlanta)
 US California | [569](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20California)
-US Chicago | [914](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Chicago)
+US Chicago | [915](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Chicago)
 US Denver | [277](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Denver)
 US East | [335](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20East)
 US Florida | [564](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Florida)
@@ -127,7 +127,7 @@ US Seattle | [527](https://github.com/Lars-/PIA-servers/tree/master/regions/US%2
 US Silicon Valley | [748](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Silicon%20Valley)
 US Texas | [837](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Texas)
 US Washington Dc | [676](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Washington%20Dc)
-US West | [538](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West)
+US West | [540](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West)
 Venezuela | [45](https://github.com/Lars-/PIA-servers/tree/master/regions/Venezuela)
 Vietnam | [46](https://github.com/Lars-/PIA-servers/tree/master/regions/Vietnam)
 
