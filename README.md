@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-21002-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2024--04--11%2021%3A04%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-21004-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2024--04--11%2022%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -50,7 +50,7 @@ Bulgaria | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/Bulgari
 CA Montreal | [978](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Montreal)
 CA Ontario | [645](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Ontario)
 CA Toronto | [816](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Toronto)
-CA Vancouver | [922](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Vancouver)
+CA Vancouver | [923](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Vancouver)
 Cambodia | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Cambodia)
 China | [38](https://github.com/Lars-/PIA-servers/tree/master/regions/China)
 Cyprus | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Cyprus)
@@ -114,7 +114,7 @@ UK Manchester | [225](https://github.com/Lars-/PIA-servers/tree/master/regions/U
 UK Southampton | [321](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Southampton)
 Ukraine | [59](https://github.com/Lars-/PIA-servers/tree/master/regions/Ukraine)
 United Arab Emirates | [38](https://github.com/Lars-/PIA-servers/tree/master/regions/United%20Arab%20Emirates)
-US Atlanta | [684](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Atlanta)
+US Atlanta | [685](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Atlanta)
 US California | [539](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20California)
 US Chicago | [881](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Chicago)
 US Denver | [279](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Denver)
