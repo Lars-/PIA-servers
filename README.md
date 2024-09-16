@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-16695-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2024--09--16%2010%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-16695-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2024--09--16%2011%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -47,7 +47,7 @@ Bangladesh | [31](https://github.com/Lars-/PIA-servers/tree/master/regions/Bangl
 Belgium | [100](https://github.com/Lars-/PIA-servers/tree/master/regions/Belgium)
 Brazil | [66](https://github.com/Lars-/PIA-servers/tree/master/regions/Brazil)
 Bulgaria | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/Bulgaria)
-CA Montreal | [666](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Montreal)
+CA Montreal | [667](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Montreal)
 CA Ontario | [78](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Ontario)
 CA Toronto | [743](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Toronto)
 CA Vancouver | [447](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Vancouver)
@@ -110,7 +110,7 @@ Switzerland | [283](https://github.com/Lars-/PIA-servers/tree/master/regions/Swi
 Taiwan | [46](https://github.com/Lars-/PIA-servers/tree/master/regions/Taiwan)
 Turkey | [52](https://github.com/Lars-/PIA-servers/tree/master/regions/Turkey)
 UK London | [422](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20London)
-UK Manchester | [213](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Manchester)
+UK Manchester | [212](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Manchester)
 UK Southampton | [160](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Southampton)
 Ukraine | [59](https://github.com/Lars-/PIA-servers/tree/master/regions/Ukraine)
 United Arab Emirates | [38](https://github.com/Lars-/PIA-servers/tree/master/regions/United%20Arab%20Emirates)
