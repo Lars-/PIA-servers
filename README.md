@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-16711-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2024--10--03%2007%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-16714-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2024--10--03%2008%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -41,7 +41,7 @@ Armenia | [12](https://github.com/Lars-/PIA-servers/tree/master/regions/Armenia)
 AU Melbourne | [448](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Melbourne)
 AU Perth | [183](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Perth)
 AU Sydney | [327](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Sydney)
-Austria | [70](https://github.com/Lars-/PIA-servers/tree/master/regions/Austria)
+Austria | [69](https://github.com/Lars-/PIA-servers/tree/master/regions/Austria)
 Bahamas | [77](https://github.com/Lars-/PIA-servers/tree/master/regions/Bahamas)
 Bangladesh | [31](https://github.com/Lars-/PIA-servers/tree/master/regions/Bangladesh)
 Belgium | [100](https://github.com/Lars-/PIA-servers/tree/master/regions/Belgium)
@@ -60,7 +60,7 @@ DE Frankfurt | [326](https://github.com/Lars-/PIA-servers/tree/master/regions/DE
 Denmark | [94](https://github.com/Lars-/PIA-servers/tree/master/regions/Denmark)
 Egypt | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Egypt)
 Estonia | [117](https://github.com/Lars-/PIA-servers/tree/master/regions/Estonia)
-Finland | [56](https://github.com/Lars-/PIA-servers/tree/master/regions/Finland)
+Finland | [60](https://github.com/Lars-/PIA-servers/tree/master/regions/Finland)
 France | [171](https://github.com/Lars-/PIA-servers/tree/master/regions/France)
 Georgia | [22](https://github.com/Lars-/PIA-servers/tree/master/regions/Georgia)
 Greece | [45](https://github.com/Lars-/PIA-servers/tree/master/regions/Greece)
