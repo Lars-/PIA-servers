@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-16660-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2024--12--20%2008%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-16660-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2024--12--20%2009%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -90,7 +90,7 @@ Montenegro | [26](https://github.com/Lars-/PIA-servers/tree/master/regions/Monte
 Morocco | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Morocco)
 Netherlands | [768](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
 New Zealand | [182](https://github.com/Lars-/PIA-servers/tree/master/regions/New%20Zealand)
-Nigeria | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Nigeria)
+Nigeria | [25](https://github.com/Lars-/PIA-servers/tree/master/regions/Nigeria)
 Norway | [112](https://github.com/Lars-/PIA-servers/tree/master/regions/Norway)
 Panama | [71](https://github.com/Lars-/PIA-servers/tree/master/regions/Panama)
 Philippines | [36](https://github.com/Lars-/PIA-servers/tree/master/regions/Philippines)
@@ -127,7 +127,7 @@ US Seattle | [399](https://github.com/Lars-/PIA-servers/tree/master/regions/US%2
 US Silicon Valley | [525](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Silicon%20Valley)
 US Texas | [546](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Texas)
 US Washington Dc | [605](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Washington%20Dc)
-US West | [764](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West)
+US West | [763](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West)
 Venezuela | [45](https://github.com/Lars-/PIA-servers/tree/master/regions/Venezuela)
 Vietnam | [44](https://github.com/Lars-/PIA-servers/tree/master/regions/Vietnam)
 
