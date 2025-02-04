@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-16870-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2025--02--04%2005%3A00%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-16870-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2025--02--04%2006%3A00%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -47,7 +47,7 @@ Bangladesh | [31](https://github.com/Lars-/PIA-servers/tree/master/regions/Bangl
 Belgium | [100](https://github.com/Lars-/PIA-servers/tree/master/regions/Belgium)
 Brazil | [66](https://github.com/Lars-/PIA-servers/tree/master/regions/Brazil)
 Bulgaria | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/Bulgaria)
-CA Montreal | [667](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Montreal)
+CA Montreal | [666](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Montreal)
 CA Ontario | [104](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Ontario)
 CA Toronto | [715](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Toronto)
 CA Vancouver | [445](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Vancouver)
@@ -63,7 +63,7 @@ Estonia | [117](https://github.com/Lars-/PIA-servers/tree/master/regions/Estonia
 Finland | [79](https://github.com/Lars-/PIA-servers/tree/master/regions/Finland)
 France | [165](https://github.com/Lars-/PIA-servers/tree/master/regions/France)
 Georgia | [33](https://github.com/Lars-/PIA-servers/tree/master/regions/Georgia)
-Greece | [146](https://github.com/Lars-/PIA-servers/tree/master/regions/Greece)
+Greece | [147](https://github.com/Lars-/PIA-servers/tree/master/regions/Greece)
 Greenland | [56](https://github.com/Lars-/PIA-servers/tree/master/regions/Greenland)
 Hong Kong | [32](https://github.com/Lars-/PIA-servers/tree/master/regions/Hong%20Kong)
 Hungary | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/Hungary)
