@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-16947-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2025--02--13%2010%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-16943-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2025--02--13%2011%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -40,8 +40,8 @@ Argentina | [75](https://github.com/Lars-/PIA-servers/tree/master/regions/Argent
 Armenia | [12](https://github.com/Lars-/PIA-servers/tree/master/regions/Armenia)
 AU Melbourne | [449](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Melbourne)
 AU Perth | [183](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Perth)
-AU Sydney | [316](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Sydney)
-Austria | [82](https://github.com/Lars-/PIA-servers/tree/master/regions/Austria)
+AU Sydney | [315](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Sydney)
+Austria | [79](https://github.com/Lars-/PIA-servers/tree/master/regions/Austria)
 Bahamas | [92](https://github.com/Lars-/PIA-servers/tree/master/regions/Bahamas)
 Bangladesh | [31](https://github.com/Lars-/PIA-servers/tree/master/regions/Bangladesh)
 Belgium | [100](https://github.com/Lars-/PIA-servers/tree/master/regions/Belgium)
