@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-16811-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2025--02--21%2009%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-16809-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2025--02--21%2010%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -65,7 +65,7 @@ France | [165](https://github.com/Lars-/PIA-servers/tree/master/regions/France)
 Georgia | [33](https://github.com/Lars-/PIA-servers/tree/master/regions/Georgia)
 Greece | [116](https://github.com/Lars-/PIA-servers/tree/master/regions/Greece)
 Greenland | [56](https://github.com/Lars-/PIA-servers/tree/master/regions/Greenland)
-Hong Kong | [34](https://github.com/Lars-/PIA-servers/tree/master/regions/Hong%20Kong)
+Hong Kong | [32](https://github.com/Lars-/PIA-servers/tree/master/regions/Hong%20Kong)
 Hungary | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Hungary)
 Iceland | [36](https://github.com/Lars-/PIA-servers/tree/master/regions/Iceland)
 India | [59](https://github.com/Lars-/PIA-servers/tree/master/regions/India)
