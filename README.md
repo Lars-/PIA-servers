@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-16423-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2025--04--29%2001%3A00%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-16421-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2025--04--29%2002%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -42,7 +42,7 @@ AU Melbourne | [449](https://github.com/Lars-/PIA-servers/tree/master/regions/AU
 AU Perth | [183](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Perth)
 AU Sydney | [296](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Sydney)
 Austria | [55](https://github.com/Lars-/PIA-servers/tree/master/regions/Austria)
-Bahamas | [98](https://github.com/Lars-/PIA-servers/tree/master/regions/Bahamas)
+Bahamas | [97](https://github.com/Lars-/PIA-servers/tree/master/regions/Bahamas)
 Bangladesh | [31](https://github.com/Lars-/PIA-servers/tree/master/regions/Bangladesh)
 Belgium | [100](https://github.com/Lars-/PIA-servers/tree/master/regions/Belgium)
 Brazil | [65](https://github.com/Lars-/PIA-servers/tree/master/regions/Brazil)
@@ -128,7 +128,7 @@ US Silicon Valley | [523](https://github.com/Lars-/PIA-servers/tree/master/regio
 US Texas | [624](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Texas)
 US Washington Dc | [458](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Washington%20Dc)
 US West | [229](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West)
-Venezuela | [59](https://github.com/Lars-/PIA-servers/tree/master/regions/Venezuela)
+Venezuela | [58](https://github.com/Lars-/PIA-servers/tree/master/regions/Venezuela)
 Vietnam | [42](https://github.com/Lars-/PIA-servers/tree/master/regions/Vietnam)
 
 
