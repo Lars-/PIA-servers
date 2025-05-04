@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-16419-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2025--05--04%2011%3A00%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-16419-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2025--05--04%2012%3A00%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -96,7 +96,7 @@ Panama | [44](https://github.com/Lars-/PIA-servers/tree/master/regions/Panama)
 Philippines | [35](https://github.com/Lars-/PIA-servers/tree/master/regions/Philippines)
 Poland | [64](https://github.com/Lars-/PIA-servers/tree/master/regions/Poland)
 Portugal | [43](https://github.com/Lars-/PIA-servers/tree/master/regions/Portugal)
-Qatar | [31](https://github.com/Lars-/PIA-servers/tree/master/regions/Qatar)
+Qatar | [32](https://github.com/Lars-/PIA-servers/tree/master/regions/Qatar)
 Romania | [60](https://github.com/Lars-/PIA-servers/tree/master/regions/Romania)
 Saudi Arabia | [26](https://github.com/Lars-/PIA-servers/tree/master/regions/Saudi%20Arabia)
 Serbia | [15](https://github.com/Lars-/PIA-servers/tree/master/regions/Serbia)
@@ -118,7 +118,7 @@ US Atlanta | [606](https://github.com/Lars-/PIA-servers/tree/master/regions/US%2
 US California | [626](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20California)
 US Chicago | [764](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Chicago)
 US Denver | [283](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Denver)
-US East | [503](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20East)
+US East | [502](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20East)
 US Florida | [477](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Florida)
 US Houston | [197](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Houston)
 US Las Vegas | [517](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Las%20Vegas)
