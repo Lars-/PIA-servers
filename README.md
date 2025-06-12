@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-16804-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2025--06--12%2011%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-16805-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2025--06--12%2012%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -128,7 +128,7 @@ US Silicon Valley | [522](https://github.com/Lars-/PIA-servers/tree/master/regio
 US Texas | [624](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Texas)
 US Washington Dc | [703](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Washington%20Dc)
 US West | [199](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West)
-Venezuela | [55](https://github.com/Lars-/PIA-servers/tree/master/regions/Venezuela)
+Venezuela | [56](https://github.com/Lars-/PIA-servers/tree/master/regions/Venezuela)
 Vietnam | [44](https://github.com/Lars-/PIA-servers/tree/master/regions/Vietnam)
 
 
