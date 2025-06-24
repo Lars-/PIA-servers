@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-16833-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2025--06--24%2015%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-16834-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2025--06--24%2016%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -76,7 +76,7 @@ Italy | [87](https://github.com/Lars-/PIA-servers/tree/master/regions/Italy)
 Japan | [237](https://github.com/Lars-/PIA-servers/tree/master/regions/Japan)
 Kazakhstan | [23](https://github.com/Lars-/PIA-servers/tree/master/regions/Kazakhstan)
 Latvia | [60](https://github.com/Lars-/PIA-servers/tree/master/regions/Latvia)
-Liechtenstein | [39](https://github.com/Lars-/PIA-servers/tree/master/regions/Liechtenstein)
+Liechtenstein | [40](https://github.com/Lars-/PIA-servers/tree/master/regions/Liechtenstein)
 Lithuania | [55](https://github.com/Lars-/PIA-servers/tree/master/regions/Lithuania)
 Luxembourg | [62](https://github.com/Lars-/PIA-servers/tree/master/regions/Luxembourg)
 Macao | [26](https://github.com/Lars-/PIA-servers/tree/master/regions/Macao)
