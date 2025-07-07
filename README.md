@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-17298-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2025--07--07%2018%3A00%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-17304-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2025--07--07%2019%3A00%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -60,7 +60,7 @@ DE Frankfurt | [349](https://github.com/Lars-/PIA-servers/tree/master/regions/DE
 Denmark | [90](https://github.com/Lars-/PIA-servers/tree/master/regions/Denmark)
 Egypt | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Egypt)
 Estonia | [117](https://github.com/Lars-/PIA-servers/tree/master/regions/Estonia)
-Finland | [73](https://github.com/Lars-/PIA-servers/tree/master/regions/Finland)
+Finland | [76](https://github.com/Lars-/PIA-servers/tree/master/regions/Finland)
 France | [165](https://github.com/Lars-/PIA-servers/tree/master/regions/France)
 Georgia | [33](https://github.com/Lars-/PIA-servers/tree/master/regions/Georgia)
 Greece | [116](https://github.com/Lars-/PIA-servers/tree/master/regions/Greece)
@@ -92,7 +92,7 @@ Netherlands | [987](https://github.com/Lars-/PIA-servers/tree/master/regions/Net
 New Zealand | [183](https://github.com/Lars-/PIA-servers/tree/master/regions/New%20Zealand)
 Nigeria | [38](https://github.com/Lars-/PIA-servers/tree/master/regions/Nigeria)
 Norway | [140](https://github.com/Lars-/PIA-servers/tree/master/regions/Norway)
-Panama | [62](https://github.com/Lars-/PIA-servers/tree/master/regions/Panama)
+Panama | [65](https://github.com/Lars-/PIA-servers/tree/master/regions/Panama)
 Philippines | [35](https://github.com/Lars-/PIA-servers/tree/master/regions/Philippines)
 Poland | [64](https://github.com/Lars-/PIA-servers/tree/master/regions/Poland)
 Portugal | [43](https://github.com/Lars-/PIA-servers/tree/master/regions/Portugal)
