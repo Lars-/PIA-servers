@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-18520-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--01--29%2023%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-18522-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--01--30%2000%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -47,7 +47,7 @@ Bangladesh | [31](https://github.com/Lars-/PIA-servers/tree/master/regions/Bangl
 Belgium | [100](https://github.com/Lars-/PIA-servers/tree/master/regions/Belgium)
 Brazil | [66](https://github.com/Lars-/PIA-servers/tree/master/regions/Brazil)
 Bulgaria | [56](https://github.com/Lars-/PIA-servers/tree/master/regions/Bulgaria)
-CA Montreal | [603](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Montreal)
+CA Montreal | [604](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Montreal)
 CA Ontario | [315](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Ontario)
 CA Toronto | [569](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Toronto)
 CA Vancouver | [514](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Vancouver)
@@ -154,7 +154,7 @@ Peru | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/Peru)
 SE Streaming Optimized | [29](https://github.com/Lars-/PIA-servers/tree/master/regions/SE%20Streaming%20Optimized)
 Slovenia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Slovenia)
 South Korea | [14](https://github.com/Lars-/PIA-servers/tree/master/regions/South%20Korea)
-UK Streaming Optimized | [109](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Streaming%20Optimized)
+UK Streaming Optimized | [110](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Streaming%20Optimized)
 Uruguay | [56](https://github.com/Lars-/PIA-servers/tree/master/regions/Uruguay)
 US Alabama | [18](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Alabama)
 US Alaska | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Alaska)
