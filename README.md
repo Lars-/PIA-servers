@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-18540-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--01--30%2005%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-18542-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--01--30%2006%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -154,7 +154,7 @@ Peru | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/Peru)
 SE Streaming Optimized | [29](https://github.com/Lars-/PIA-servers/tree/master/regions/SE%20Streaming%20Optimized)
 Slovenia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Slovenia)
 South Korea | [14](https://github.com/Lars-/PIA-servers/tree/master/regions/South%20Korea)
-UK Streaming Optimized | [110](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Streaming%20Optimized)
+UK Streaming Optimized | [112](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Streaming%20Optimized)
 Uruguay | [56](https://github.com/Lars-/PIA-servers/tree/master/regions/Uruguay)
 US Alabama | [18](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Alabama)
 US Alaska | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Alaska)
