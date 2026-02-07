@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-18552-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--02--07%2018%3A18%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-18552-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--02--07%2021%3A06%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
