@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-18527-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--02--13%2013%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-18527-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--02--13%2014%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -83,12 +83,12 @@ Macao | [26](https://github.com/Lars-/PIA-servers/tree/master/regions/Macao)
 Macedonia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Macedonia)
 Malta | [37](https://github.com/Lars-/PIA-servers/tree/master/regions/Malta)
 Mexico | [138](https://github.com/Lars-/PIA-servers/tree/master/regions/Mexico)
-Moldova | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/Moldova)
+Moldova | [19](https://github.com/Lars-/PIA-servers/tree/master/regions/Moldova)
 Monaco | [22](https://github.com/Lars-/PIA-servers/tree/master/regions/Monaco)
 Mongolia | [12](https://github.com/Lars-/PIA-servers/tree/master/regions/Mongolia)
 Montenegro | [26](https://github.com/Lars-/PIA-servers/tree/master/regions/Montenegro)
 Morocco | [38](https://github.com/Lars-/PIA-servers/tree/master/regions/Morocco)
-Netherlands | [1048](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
+Netherlands | [1049](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
 New Zealand | [183](https://github.com/Lars-/PIA-servers/tree/master/regions/New%20Zealand)
 Nigeria | [38](https://github.com/Lars-/PIA-servers/tree/master/regions/Nigeria)
 Norway | [140](https://github.com/Lars-/PIA-servers/tree/master/regions/Norway)
