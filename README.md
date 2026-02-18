@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-18327-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--02--18%2019%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-18324-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--02--18%2020%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -56,7 +56,7 @@ China | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/China)
 Cyprus | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Cyprus)
 Czech Republic | [60](https://github.com/Lars-/PIA-servers/tree/master/regions/Czech%20Republic)
 DE Berlin | [76](https://github.com/Lars-/PIA-servers/tree/master/regions/DE%20Berlin)
-DE Frankfurt | [358](https://github.com/Lars-/PIA-servers/tree/master/regions/DE%20Frankfurt)
+DE Frankfurt | [354](https://github.com/Lars-/PIA-servers/tree/master/regions/DE%20Frankfurt)
 Denmark | [90](https://github.com/Lars-/PIA-servers/tree/master/regions/Denmark)
 Egypt | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Egypt)
 Estonia | [67](https://github.com/Lars-/PIA-servers/tree/master/regions/Estonia)
@@ -173,7 +173,7 @@ US Massachusetts | [52](https://github.com/Lars-/PIA-servers/tree/master/regions
 US Michigan | [40](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Michigan)
 US Minnesota | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Minnesota)
 US Mississippi | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Mississippi)
-US Missouri | [59](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Missouri)
+US Missouri | [60](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Missouri)
 US Montana | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Montana)
 US Nebraska | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Nebraska)
 US New Hampshire | [36](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20New%20Hampshire)
