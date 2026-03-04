@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-17692-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--03--04%2020%3A18%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-17690-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--03--04%2021%3A20%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -132,7 +132,7 @@ Venezuela | [59](https://github.com/Lars-/PIA-servers/tree/master/regions/Venezu
 Vietnam | [44](https://github.com/Lars-/PIA-servers/tree/master/regions/Vietnam)
 AU Adelaide | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Adelaide)
 AU Brisbane | [84](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Brisbane)
-Australia Streaming Optimized | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/Australia%20Streaming%20Optimized)
+Australia Streaming Optimized | [26](https://github.com/Lars-/PIA-servers/tree/master/regions/Australia%20Streaming%20Optimized)
 Bolivia | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/Bolivia)
 Bosnia And Herzegovina | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Bosnia%20And%20Herzegovina)
 Chile | [36](https://github.com/Lars-/PIA-servers/tree/master/regions/Chile)
