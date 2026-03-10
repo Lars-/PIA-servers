@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-17117-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--03--10%2013%3A09%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-17105-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--03--10%2014%3A25%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -73,7 +73,7 @@ Ireland | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Ireland)
 Isle Of Man | [44](https://github.com/Lars-/PIA-servers/tree/master/regions/Isle%20Of%20Man)
 Israel | [100](https://github.com/Lars-/PIA-servers/tree/master/regions/Israel)
 Italy | [87](https://github.com/Lars-/PIA-servers/tree/master/regions/Italy)
-Japan | [41](https://github.com/Lars-/PIA-servers/tree/master/regions/Japan)
+Japan | [35](https://github.com/Lars-/PIA-servers/tree/master/regions/Japan)
 Kazakhstan | [23](https://github.com/Lars-/PIA-servers/tree/master/regions/Kazakhstan)
 Latvia | [49](https://github.com/Lars-/PIA-servers/tree/master/regions/Latvia)
 Liechtenstein | [41](https://github.com/Lars-/PIA-servers/tree/master/regions/Liechtenstein)
@@ -138,7 +138,7 @@ Bosnia And Herzegovina | [24](https://github.com/Lars-/PIA-servers/tree/master/r
 Chile | [36](https://github.com/Lars-/PIA-servers/tree/master/regions/Chile)
 Colombia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Colombia)
 Costa Rica | [35](https://github.com/Lars-/PIA-servers/tree/master/regions/Costa%20Rica)
-Croatia | [8](https://github.com/Lars-/PIA-servers/tree/master/regions/Croatia)
+Croatia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Croatia)
 DK Streaming Optimized | [57](https://github.com/Lars-/PIA-servers/tree/master/regions/DK%20Streaming%20Optimized)
 Ecuador | [57](https://github.com/Lars-/PIA-servers/tree/master/regions/Ecuador)
 ES Valencia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/ES%20Valencia)
