@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-17127-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--03--11%2006%3A49%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-17124-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--03--11%2008%3A00%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -54,7 +54,7 @@ CA Vancouver | [524](https://github.com/Lars-/PIA-servers/tree/master/regions/CA
 Cambodia | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Cambodia)
 China | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/China)
 Cyprus | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Cyprus)
-Czech Republic | [29](https://github.com/Lars-/PIA-servers/tree/master/regions/Czech%20Republic)
+Czech Republic | [26](https://github.com/Lars-/PIA-servers/tree/master/regions/Czech%20Republic)
 DE Berlin | [76](https://github.com/Lars-/PIA-servers/tree/master/regions/DE%20Berlin)
 DE Frankfurt | [73](https://github.com/Lars-/PIA-servers/tree/master/regions/DE%20Frankfurt)
 Denmark | [90](https://github.com/Lars-/PIA-servers/tree/master/regions/Denmark)
