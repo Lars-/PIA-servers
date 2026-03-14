@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-17079-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--03--14%2012%3A25%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-17076-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--03--14%2013%3A14%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -47,7 +47,7 @@ Bangladesh | [31](https://github.com/Lars-/PIA-servers/tree/master/regions/Bangl
 Belgium | [100](https://github.com/Lars-/PIA-servers/tree/master/regions/Belgium)
 Brazil | [66](https://github.com/Lars-/PIA-servers/tree/master/regions/Brazil)
 Bulgaria | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Bulgaria)
-CA Montreal | [554](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Montreal)
+CA Montreal | [552](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Montreal)
 CA Ontario | [315](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Ontario)
 CA Toronto | [570](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Toronto)
 CA Vancouver | [524](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Vancouver)
@@ -185,7 +185,7 @@ US Oklahoma | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/US%2
 US Oregon | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Oregon)
 US Pennsylvania | [59](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Pennsylvania)
 US Rhode Island | [18](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Rhode%20Island)
-US Salt Lake City | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Salt%20Lake%20City)
+US Salt Lake City | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Salt%20Lake%20City)
 US South Carolina | [31](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20South%20Carolina)
 US South Dakota | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20South%20Dakota)
 US Tennessee | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Tennessee)
