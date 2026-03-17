@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-17019-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--03--17%2012%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-17023-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--03--17%2013%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -90,13 +90,13 @@ Montenegro | [26](https://github.com/Lars-/PIA-servers/tree/master/regions/Monte
 Morocco | [38](https://github.com/Lars-/PIA-servers/tree/master/regions/Morocco)
 Netherlands | [1051](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
 New Zealand | [183](https://github.com/Lars-/PIA-servers/tree/master/regions/New%20Zealand)
-Nigeria | [38](https://github.com/Lars-/PIA-servers/tree/master/regions/Nigeria)
+Nigeria | [40](https://github.com/Lars-/PIA-servers/tree/master/regions/Nigeria)
 Norway | [140](https://github.com/Lars-/PIA-servers/tree/master/regions/Norway)
 Panama | [93](https://github.com/Lars-/PIA-servers/tree/master/regions/Panama)
 Philippines | [36](https://github.com/Lars-/PIA-servers/tree/master/regions/Philippines)
 Poland | [67](https://github.com/Lars-/PIA-servers/tree/master/regions/Poland)
 Portugal | [43](https://github.com/Lars-/PIA-servers/tree/master/regions/Portugal)
-Qatar | [33](https://github.com/Lars-/PIA-servers/tree/master/regions/Qatar)
+Qatar | [35](https://github.com/Lars-/PIA-servers/tree/master/regions/Qatar)
 Romania | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Romania)
 Saudi Arabia | [42](https://github.com/Lars-/PIA-servers/tree/master/regions/Saudi%20Arabia)
 Serbia | [41](https://github.com/Lars-/PIA-servers/tree/master/regions/Serbia)
