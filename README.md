@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-16996-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--03--18%2010%3A13%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-16991-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--03--18%2011%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -62,7 +62,7 @@ Egypt | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Egypt)
 Estonia | [67](https://github.com/Lars-/PIA-servers/tree/master/regions/Estonia)
 Finland | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Finland)
 France | [167](https://github.com/Lars-/PIA-servers/tree/master/regions/France)
-Georgia | [7](https://github.com/Lars-/PIA-servers/tree/master/regions/Georgia)
+Georgia | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Georgia)
 Greece | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Greece)
 Greenland | [57](https://github.com/Lars-/PIA-servers/tree/master/regions/Greenland)
 Hong Kong | [32](https://github.com/Lars-/PIA-servers/tree/master/regions/Hong%20Kong)
@@ -94,7 +94,7 @@ Nigeria | [40](https://github.com/Lars-/PIA-servers/tree/master/regions/Nigeria)
 Norway | [140](https://github.com/Lars-/PIA-servers/tree/master/regions/Norway)
 Panama | [93](https://github.com/Lars-/PIA-servers/tree/master/regions/Panama)
 Philippines | [36](https://github.com/Lars-/PIA-servers/tree/master/regions/Philippines)
-Poland | [67](https://github.com/Lars-/PIA-servers/tree/master/regions/Poland)
+Poland | [66](https://github.com/Lars-/PIA-servers/tree/master/regions/Poland)
 Portugal | [43](https://github.com/Lars-/PIA-servers/tree/master/regions/Portugal)
 Qatar | [35](https://github.com/Lars-/PIA-servers/tree/master/regions/Qatar)
 Romania | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Romania)
