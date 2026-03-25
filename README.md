@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-16749-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--03--25%2023%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-16746-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--03--26%2000%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -99,7 +99,7 @@ Portugal | [43](https://github.com/Lars-/PIA-servers/tree/master/regions/Portuga
 Qatar | [14](https://github.com/Lars-/PIA-servers/tree/master/regions/Qatar)
 Romania | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Romania)
 Saudi Arabia | [42](https://github.com/Lars-/PIA-servers/tree/master/regions/Saudi%20Arabia)
-Serbia | [38](https://github.com/Lars-/PIA-servers/tree/master/regions/Serbia)
+Serbia | [35](https://github.com/Lars-/PIA-servers/tree/master/regions/Serbia)
 Singapore | [117](https://github.com/Lars-/PIA-servers/tree/master/regions/Singapore)
 Slovakia | [52](https://github.com/Lars-/PIA-servers/tree/master/regions/Slovakia)
 South Africa | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/South%20Africa)
