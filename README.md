@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-16799-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--04--01%2006%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-16797-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--04--01%2007%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -59,7 +59,7 @@ DE Berlin | [76](https://github.com/Lars-/PIA-servers/tree/master/regions/DE%20B
 DE Frankfurt | [73](https://github.com/Lars-/PIA-servers/tree/master/regions/DE%20Frankfurt)
 Denmark | [90](https://github.com/Lars-/PIA-servers/tree/master/regions/Denmark)
 Egypt | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Egypt)
-Estonia | [64](https://github.com/Lars-/PIA-servers/tree/master/regions/Estonia)
+Estonia | [62](https://github.com/Lars-/PIA-servers/tree/master/regions/Estonia)
 Finland | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Finland)
 France | [167](https://github.com/Lars-/PIA-servers/tree/master/regions/France)
 Georgia | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Georgia)
