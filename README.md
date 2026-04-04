@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-16748-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--04--04%2007%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-16746-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--04--04%2008%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -73,7 +73,7 @@ Ireland | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Ireland)
 Isle Of Man | [44](https://github.com/Lars-/PIA-servers/tree/master/regions/Isle%20Of%20Man)
 Israel | [100](https://github.com/Lars-/PIA-servers/tree/master/regions/Israel)
 Italy | [87](https://github.com/Lars-/PIA-servers/tree/master/regions/Italy)
-Japan | [32](https://github.com/Lars-/PIA-servers/tree/master/regions/Japan)
+Japan | [31](https://github.com/Lars-/PIA-servers/tree/master/regions/Japan)
 Kazakhstan | [23](https://github.com/Lars-/PIA-servers/tree/master/regions/Kazakhstan)
 Latvia | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/Latvia)
 Liechtenstein | [41](https://github.com/Lars-/PIA-servers/tree/master/regions/Liechtenstein)
@@ -169,7 +169,7 @@ US Kansas | [18](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20K
 US Kentucky | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Kentucky)
 US Louisiana | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Louisiana)
 US Maine | [18](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Maine)
-US Massachusetts | [27](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Massachusetts)
+US Massachusetts | [26](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Massachusetts)
 US Michigan | [40](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Michigan)
 US Minnesota | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Minnesota)
 US Mississippi | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Mississippi)
