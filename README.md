@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-16749-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--04--04%2006%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-16748-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--04--04%2007%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -126,7 +126,7 @@ US New York | [724](https://github.com/Lars-/PIA-servers/tree/master/regions/US%
 US Seattle | [418](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Seattle)
 US Silicon Valley | [573](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Silicon%20Valley)
 US Texas | [624](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Texas)
-US Washington Dc | [699](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Washington%20Dc)
+US Washington Dc | [700](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Washington%20Dc)
 US West | [229](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West)
 Venezuela | [59](https://github.com/Lars-/PIA-servers/tree/master/regions/Venezuela)
 Vietnam | [44](https://github.com/Lars-/PIA-servers/tree/master/regions/Vietnam)
@@ -146,7 +146,7 @@ FI Streaming Optimized | [28](https://github.com/Lars-/PIA-servers/tree/master/r
 Guatemala | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/Guatemala)
 Indonesia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Indonesia)
 IT Streaming Optimized | [30](https://github.com/Lars-/PIA-servers/tree/master/regions/IT%20Streaming%20Optimized)
-JP Streaming Optimized | [26](https://github.com/Lars-/PIA-servers/tree/master/regions/JP%20Streaming%20Optimized)
+JP Streaming Optimized | [25](https://github.com/Lars-/PIA-servers/tree/master/regions/JP%20Streaming%20Optimized)
 Malaysia | [30](https://github.com/Lars-/PIA-servers/tree/master/regions/Malaysia)
 Nepal | [14](https://github.com/Lars-/PIA-servers/tree/master/regions/Nepal)
 NL Netherlands Streaming Optimized | [66](https://github.com/Lars-/PIA-servers/tree/master/regions/NL%20Netherlands%20Streaming%20Optimized)
@@ -169,7 +169,7 @@ US Kansas | [18](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20K
 US Kentucky | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Kentucky)
 US Louisiana | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Louisiana)
 US Maine | [18](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Maine)
-US Massachusetts | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Massachusetts)
+US Massachusetts | [27](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Massachusetts)
 US Michigan | [40](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Michigan)
 US Minnesota | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Minnesota)
 US Mississippi | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Mississippi)
