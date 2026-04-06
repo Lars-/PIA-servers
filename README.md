@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-16614-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--04--06%2003%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-16612-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--04--06%2004%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -109,13 +109,13 @@ Sweden | [199](https://github.com/Lars-/PIA-servers/tree/master/regions/Sweden)
 Switzerland | [304](https://github.com/Lars-/PIA-servers/tree/master/regions/Switzerland)
 Taiwan | [46](https://github.com/Lars-/PIA-servers/tree/master/regions/Taiwan)
 Turkey | [52](https://github.com/Lars-/PIA-servers/tree/master/regions/Turkey)
-UK London | [280](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20London)
+UK London | [277](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20London)
 UK Manchester | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Manchester)
 UK Southampton | [200](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Southampton)
 Ukraine | [59](https://github.com/Lars-/PIA-servers/tree/master/regions/Ukraine)
 United Arab Emirates | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/United%20Arab%20Emirates)
 US Atlanta | [693](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Atlanta)
-US California | [527](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20California)
+US California | [528](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20California)
 US Chicago | [764](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Chicago)
 US Denver | [283](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Denver)
 US East | [691](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20East)
