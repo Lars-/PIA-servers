@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-15941-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--04--10%2003%3A08%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-15940-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--04--10%2003%3A59%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -47,7 +47,7 @@ Bangladesh | [31](https://github.com/Lars-/PIA-servers/tree/master/regions/Bangl
 Belgium | [103](https://github.com/Lars-/PIA-servers/tree/master/regions/Belgium)
 Brazil | [66](https://github.com/Lars-/PIA-servers/tree/master/regions/Brazil)
 Bulgaria | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Bulgaria)
-CA Montreal | [561](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Montreal)
+CA Montreal | [562](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Montreal)
 CA Ontario | [320](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Ontario)
 CA Toronto | [574](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Toronto)
 CA Vancouver | [524](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Vancouver)
@@ -100,7 +100,7 @@ Qatar | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Qatar)
 Romania | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Romania)
 Saudi Arabia | [42](https://github.com/Lars-/PIA-servers/tree/master/regions/Saudi%20Arabia)
 Serbia | [18](https://github.com/Lars-/PIA-servers/tree/master/regions/Serbia)
-Singapore | [106](https://github.com/Lars-/PIA-servers/tree/master/regions/Singapore)
+Singapore | [104](https://github.com/Lars-/PIA-servers/tree/master/regions/Singapore)
 Slovakia | [54](https://github.com/Lars-/PIA-servers/tree/master/regions/Slovakia)
 South Africa | [30](https://github.com/Lars-/PIA-servers/tree/master/regions/South%20Africa)
 Spain | [102](https://github.com/Lars-/PIA-servers/tree/master/regions/Spain)
