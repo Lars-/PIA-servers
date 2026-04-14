@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-15814-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--04--14%2002%3A12%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-15813-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--04--14%2003%3A07%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -68,7 +68,7 @@ Greenland | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/Greenla
 Hong Kong | [32](https://github.com/Lars-/PIA-servers/tree/master/regions/Hong%20Kong)
 Hungary | [32](https://github.com/Lars-/PIA-servers/tree/master/regions/Hungary)
 Iceland | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Iceland)
-India | [120](https://github.com/Lars-/PIA-servers/tree/master/regions/India)
+India | [119](https://github.com/Lars-/PIA-servers/tree/master/regions/India)
 Ireland | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Ireland)
 Isle Of Man | [44](https://github.com/Lars-/PIA-servers/tree/master/regions/Isle%20Of%20Man)
 Israel | [102](https://github.com/Lars-/PIA-servers/tree/master/regions/Israel)
