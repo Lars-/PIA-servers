@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-15718-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--04--15%2012%3A35%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-15716-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--04--15%2013%3A31%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -88,7 +88,7 @@ Monaco | [22](https://github.com/Lars-/PIA-servers/tree/master/regions/Monaco)
 Mongolia | [12](https://github.com/Lars-/PIA-servers/tree/master/regions/Mongolia)
 Montenegro | [26](https://github.com/Lars-/PIA-servers/tree/master/regions/Montenegro)
 Morocco | [38](https://github.com/Lars-/PIA-servers/tree/master/regions/Morocco)
-Netherlands | [1056](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
+Netherlands | [1055](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
 New Zealand | [183](https://github.com/Lars-/PIA-servers/tree/master/regions/New%20Zealand)
 Nigeria | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Nigeria)
 Norway | [142](https://github.com/Lars-/PIA-servers/tree/master/regions/Norway)
@@ -105,7 +105,7 @@ Slovakia | [54](https://github.com/Lars-/PIA-servers/tree/master/regions/Slovaki
 South Africa | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/South%20Africa)
 Spain | [101](https://github.com/Lars-/PIA-servers/tree/master/regions/Spain)
 Sri Lanka | [11](https://github.com/Lars-/PIA-servers/tree/master/regions/Sri%20Lanka)
-Sweden | [198](https://github.com/Lars-/PIA-servers/tree/master/regions/Sweden)
+Sweden | [197](https://github.com/Lars-/PIA-servers/tree/master/regions/Sweden)
 Switzerland | [304](https://github.com/Lars-/PIA-servers/tree/master/regions/Switzerland)
 Taiwan | [46](https://github.com/Lars-/PIA-servers/tree/master/regions/Taiwan)
 Turkey | [52](https://github.com/Lars-/PIA-servers/tree/master/regions/Turkey)
