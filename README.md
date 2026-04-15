@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-15729-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--04--15%2009%3A47%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-15723-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--04--15%2010%3A43%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -98,7 +98,7 @@ Poland | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/Poland)
 Portugal | [45](https://github.com/Lars-/PIA-servers/tree/master/regions/Portugal)
 Qatar | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Qatar)
 Romania | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Romania)
-Saudi Arabia | [30](https://github.com/Lars-/PIA-servers/tree/master/regions/Saudi%20Arabia)
+Saudi Arabia | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/Saudi%20Arabia)
 Serbia | [18](https://github.com/Lars-/PIA-servers/tree/master/regions/Serbia)
 Singapore | [7](https://github.com/Lars-/PIA-servers/tree/master/regions/Singapore)
 Slovakia | [54](https://github.com/Lars-/PIA-servers/tree/master/regions/Slovakia)
@@ -111,7 +111,7 @@ Taiwan | [46](https://github.com/Lars-/PIA-servers/tree/master/regions/Taiwan)
 Turkey | [52](https://github.com/Lars-/PIA-servers/tree/master/regions/Turkey)
 UK London | [13](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20London)
 UK Manchester | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Manchester)
-UK Southampton | [129](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Southampton)
+UK Southampton | [125](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Southampton)
 Ukraine | [59](https://github.com/Lars-/PIA-servers/tree/master/regions/Ukraine)
 United Arab Emirates | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/United%20Arab%20Emirates)
 US Atlanta | [692](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Atlanta)
