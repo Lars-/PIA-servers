@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-14776-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--04--17%2014%3A10%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-14770-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--04--17%2015%3A02%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -66,7 +66,7 @@ Georgia | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Georgia)
 Greece | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Greece)
 Greenland | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/Greenland)
 Hong Kong | [32](https://github.com/Lars-/PIA-servers/tree/master/regions/Hong%20Kong)
-Hungary | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/Hungary)
+Hungary | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Hungary)
 Iceland | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Iceland)
 India | [118](https://github.com/Lars-/PIA-servers/tree/master/regions/India)
 Ireland | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Ireland)
@@ -103,7 +103,7 @@ Serbia | [18](https://github.com/Lars-/PIA-servers/tree/master/regions/Serbia)
 Singapore | [7](https://github.com/Lars-/PIA-servers/tree/master/regions/Singapore)
 Slovakia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Slovakia)
 South Africa | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/South%20Africa)
-Spain | [8](https://github.com/Lars-/PIA-servers/tree/master/regions/Spain)
+Spain | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/Spain)
 Sri Lanka | [11](https://github.com/Lars-/PIA-servers/tree/master/regions/Sri%20Lanka)
 Sweden | [18](https://github.com/Lars-/PIA-servers/tree/master/regions/Sweden)
 Switzerland | [304](https://github.com/Lars-/PIA-servers/tree/master/regions/Switzerland)
