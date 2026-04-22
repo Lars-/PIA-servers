@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-14749-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--04--22%2013%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-14747-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--04--22%2014%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -44,7 +44,7 @@ AU Sydney | [6](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Sy
 Austria | [55](https://github.com/Lars-/PIA-servers/tree/master/regions/Austria)
 Bahamas | [98](https://github.com/Lars-/PIA-servers/tree/master/regions/Bahamas)
 Bangladesh | [31](https://github.com/Lars-/PIA-servers/tree/master/regions/Bangladesh)
-Belgium | [104](https://github.com/Lars-/PIA-servers/tree/master/regions/Belgium)
+Belgium | [103](https://github.com/Lars-/PIA-servers/tree/master/regions/Belgium)
 Brazil | [69](https://github.com/Lars-/PIA-servers/tree/master/regions/Brazil)
 Bulgaria | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/Bulgaria)
 CA Montreal | [567](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Montreal)
@@ -88,10 +88,10 @@ Monaco | [22](https://github.com/Lars-/PIA-servers/tree/master/regions/Monaco)
 Mongolia | [12](https://github.com/Lars-/PIA-servers/tree/master/regions/Mongolia)
 Montenegro | [26](https://github.com/Lars-/PIA-servers/tree/master/regions/Montenegro)
 Morocco | [38](https://github.com/Lars-/PIA-servers/tree/master/regions/Morocco)
-Netherlands | [1051](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
+Netherlands | [1050](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
 New Zealand | [186](https://github.com/Lars-/PIA-servers/tree/master/regions/New%20Zealand)
 Nigeria | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Nigeria)
-Norway | [141](https://github.com/Lars-/PIA-servers/tree/master/regions/Norway)
+Norway | [140](https://github.com/Lars-/PIA-servers/tree/master/regions/Norway)
 Panama | [93](https://github.com/Lars-/PIA-servers/tree/master/regions/Panama)
 Philippines | [36](https://github.com/Lars-/PIA-servers/tree/master/regions/Philippines)
 Poland | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/Poland)
@@ -116,7 +116,7 @@ Ukraine | [59](https://github.com/Lars-/PIA-servers/tree/master/regions/Ukraine)
 United Arab Emirates | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/United%20Arab%20Emirates)
 US Atlanta | [690](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Atlanta)
 US California | [526](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20California)
-US Chicago | [739](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Chicago)
+US Chicago | [738](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Chicago)
 US Denver | [283](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Denver)
 US East | [691](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20East)
 US Florida | [448](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Florida)
@@ -156,7 +156,7 @@ Slovenia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Slovenia
 South Korea | [14](https://github.com/Lars-/PIA-servers/tree/master/regions/South%20Korea)
 UK Streaming Optimized | [112](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Streaming%20Optimized)
 Uruguay | [56](https://github.com/Lars-/PIA-servers/tree/master/regions/Uruguay)
-US Alabama | [18](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Alabama)
+US Alabama | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Alabama)
 US Alaska | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Alaska)
 US Arkansas | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Arkansas)
 US Baltimore | [60](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Baltimore)
