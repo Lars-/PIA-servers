@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-14724-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--04--23%2005%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-14719-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--04--23%2006%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -44,7 +44,7 @@ AU Sydney | [6](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Sy
 Austria | [55](https://github.com/Lars-/PIA-servers/tree/master/regions/Austria)
 Bahamas | [98](https://github.com/Lars-/PIA-servers/tree/master/regions/Bahamas)
 Bangladesh | [31](https://github.com/Lars-/PIA-servers/tree/master/regions/Bangladesh)
-Belgium | [89](https://github.com/Lars-/PIA-servers/tree/master/regions/Belgium)
+Belgium | [88](https://github.com/Lars-/PIA-servers/tree/master/regions/Belgium)
 Brazil | [69](https://github.com/Lars-/PIA-servers/tree/master/regions/Brazil)
 Bulgaria | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/Bulgaria)
 CA Montreal | [567](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Montreal)
@@ -71,7 +71,7 @@ Iceland | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Iceland)
 India | [118](https://github.com/Lars-/PIA-servers/tree/master/regions/India)
 Ireland | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Ireland)
 Isle Of Man | [44](https://github.com/Lars-/PIA-servers/tree/master/regions/Isle%20Of%20Man)
-Israel | [102](https://github.com/Lars-/PIA-servers/tree/master/regions/Israel)
+Israel | [101](https://github.com/Lars-/PIA-servers/tree/master/regions/Israel)
 Italy | [93](https://github.com/Lars-/PIA-servers/tree/master/regions/Italy)
 Japan | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/Japan)
 Kazakhstan | [23](https://github.com/Lars-/PIA-servers/tree/master/regions/Kazakhstan)
@@ -91,7 +91,7 @@ Morocco | [38](https://github.com/Lars-/PIA-servers/tree/master/regions/Morocco)
 Netherlands | [1049](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
 New Zealand | [186](https://github.com/Lars-/PIA-servers/tree/master/regions/New%20Zealand)
 Nigeria | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Nigeria)
-Norway | [131](https://github.com/Lars-/PIA-servers/tree/master/regions/Norway)
+Norway | [128](https://github.com/Lars-/PIA-servers/tree/master/regions/Norway)
 Panama | [93](https://github.com/Lars-/PIA-servers/tree/master/regions/Panama)
 Philippines | [38](https://github.com/Lars-/PIA-servers/tree/master/regions/Philippines)
 Poland | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/Poland)
@@ -115,8 +115,8 @@ UK Southampton | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/UK
 Ukraine | [59](https://github.com/Lars-/PIA-servers/tree/master/regions/Ukraine)
 United Arab Emirates | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/United%20Arab%20Emirates)
 US Atlanta | [691](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Atlanta)
-US California | [526](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20California)
-US Chicago | [728](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Chicago)
+US California | [527](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20California)
+US Chicago | [727](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Chicago)
 US Denver | [283](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Denver)
 US East | [691](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20East)
 US Florida | [448](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Florida)
