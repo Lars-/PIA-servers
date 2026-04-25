@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-14277-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--04--25%2013%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-14276-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--04--25%2014%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -169,7 +169,7 @@ US Kansas | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20K
 US Kentucky | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Kentucky)
 US Louisiana | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Louisiana)
 US Maine | [18](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Maine)
-US Massachusetts | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Massachusetts)
+US Massachusetts | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Massachusetts)
 US Michigan | [40](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Michigan)
 US Minnesota | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Minnesota)
 US Mississippi | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Mississippi)
