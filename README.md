@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-14118-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--04--30%2011%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-14098-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--04--30%2012%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -39,7 +39,7 @@ Andorra | [48](https://github.com/Lars-/PIA-servers/tree/master/regions/Andorra)
 Argentina | [77](https://github.com/Lars-/PIA-servers/tree/master/regions/Argentina)
 Armenia | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Armenia)
 AU Melbourne | [36](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Melbourne)
-AU Perth | [22](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Perth)
+AU Perth | [17](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Perth)
 AU Sydney | [6](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Sydney)
 Austria | [55](https://github.com/Lars-/PIA-servers/tree/master/regions/Austria)
 Bahamas | [98](https://github.com/Lars-/PIA-servers/tree/master/regions/Bahamas)
@@ -88,8 +88,8 @@ Monaco | [22](https://github.com/Lars-/PIA-servers/tree/master/regions/Monaco)
 Mongolia | [12](https://github.com/Lars-/PIA-servers/tree/master/regions/Mongolia)
 Montenegro | [26](https://github.com/Lars-/PIA-servers/tree/master/regions/Montenegro)
 Morocco | [38](https://github.com/Lars-/PIA-servers/tree/master/regions/Morocco)
-Netherlands | [1051](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
-New Zealand | [59](https://github.com/Lars-/PIA-servers/tree/master/regions/New%20Zealand)
+Netherlands | [1050](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
+New Zealand | [45](https://github.com/Lars-/PIA-servers/tree/master/regions/New%20Zealand)
 Nigeria | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Nigeria)
 Norway | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Norway)
 Panama | [93](https://github.com/Lars-/PIA-servers/tree/master/regions/Panama)
@@ -131,7 +131,7 @@ US West | [235](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20We
 Venezuela | [59](https://github.com/Lars-/PIA-servers/tree/master/regions/Venezuela)
 Vietnam | [44](https://github.com/Lars-/PIA-servers/tree/master/regions/Vietnam)
 AU Adelaide | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Adelaide)
-AU Brisbane | [22](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Brisbane)
+AU Brisbane | [18](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Brisbane)
 Australia Streaming Optimized | [0](https://github.com/Lars-/PIA-servers/tree/master/regions/Australia%20Streaming%20Optimized)
 Bolivia | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/Bolivia)
 Bosnia And Herzegovina | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Bosnia%20And%20Herzegovina)
@@ -147,7 +147,7 @@ Guatemala | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/Guatem
 Indonesia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Indonesia)
 IT Streaming Optimized | [30](https://github.com/Lars-/PIA-servers/tree/master/regions/IT%20Streaming%20Optimized)
 JP Streaming Optimized | [1](https://github.com/Lars-/PIA-servers/tree/master/regions/JP%20Streaming%20Optimized)
-Malaysia | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/Malaysia)
+Malaysia | [9](https://github.com/Lars-/PIA-servers/tree/master/regions/Malaysia)
 Nepal | [14](https://github.com/Lars-/PIA-servers/tree/master/regions/Nepal)
 NL Netherlands Streaming Optimized | [66](https://github.com/Lars-/PIA-servers/tree/master/regions/NL%20Netherlands%20Streaming%20Optimized)
 Peru | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/Peru)
