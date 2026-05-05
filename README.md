@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-13696-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--05--05%2010%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-13692-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--05--05%2011%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -126,7 +126,7 @@ US New York | [722](https://github.com/Lars-/PIA-servers/tree/master/regions/US%
 US Seattle | [16](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Seattle)
 US Silicon Valley | [566](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Silicon%20Valley)
 US Texas | [624](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Texas)
-US Washington Dc | [703](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Washington%20Dc)
+US Washington Dc | [702](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Washington%20Dc)
 US West | [233](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West)
 Venezuela | [59](https://github.com/Lars-/PIA-servers/tree/master/regions/Venezuela)
 Vietnam | [44](https://github.com/Lars-/PIA-servers/tree/master/regions/Vietnam)
@@ -145,7 +145,7 @@ ES Valencia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/ES%20
 FI Streaming Optimized | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/FI%20Streaming%20Optimized)
 Guatemala | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/Guatemala)
 Indonesia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Indonesia)
-IT Streaming Optimized | [6](https://github.com/Lars-/PIA-servers/tree/master/regions/IT%20Streaming%20Optimized)
+IT Streaming Optimized | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/IT%20Streaming%20Optimized)
 JP Streaming Optimized | [1](https://github.com/Lars-/PIA-servers/tree/master/regions/JP%20Streaming%20Optimized)
 Malaysia | [9](https://github.com/Lars-/PIA-servers/tree/master/regions/Malaysia)
 Nepal | [14](https://github.com/Lars-/PIA-servers/tree/master/regions/Nepal)
