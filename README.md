@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-13717-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--05--05%2008%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-13709-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--05--05%2009%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -88,7 +88,7 @@ Monaco | [22](https://github.com/Lars-/PIA-servers/tree/master/regions/Monaco)
 Mongolia | [12](https://github.com/Lars-/PIA-servers/tree/master/regions/Mongolia)
 Montenegro | [26](https://github.com/Lars-/PIA-servers/tree/master/regions/Montenegro)
 Morocco | [38](https://github.com/Lars-/PIA-servers/tree/master/regions/Morocco)
-Netherlands | [1052](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
+Netherlands | [1051](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
 New Zealand | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/New%20Zealand)
 Nigeria | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Nigeria)
 Norway | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Norway)
@@ -115,7 +115,7 @@ UK Southampton | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/UK
 Ukraine | [59](https://github.com/Lars-/PIA-servers/tree/master/regions/Ukraine)
 United Arab Emirates | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/United%20Arab%20Emirates)
 US Atlanta | [693](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Atlanta)
-US California | [527](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20California)
+US California | [526](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20California)
 US Chicago | [711](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Chicago)
 US Denver | [283](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Denver)
 US East | [688](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20East)
@@ -124,7 +124,7 @@ US Houston | [196](https://github.com/Lars-/PIA-servers/tree/master/regions/US%2
 US Las Vegas | [532](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Las%20Vegas)
 US New York | [722](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20New%20York)
 US Seattle | [16](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Seattle)
-US Silicon Valley | [567](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Silicon%20Valley)
+US Silicon Valley | [566](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Silicon%20Valley)
 US Texas | [624](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Texas)
 US Washington Dc | [703](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Washington%20Dc)
 US West | [233](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West)
@@ -145,7 +145,7 @@ ES Valencia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/ES%20
 FI Streaming Optimized | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/FI%20Streaming%20Optimized)
 Guatemala | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/Guatemala)
 Indonesia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Indonesia)
-IT Streaming Optimized | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/IT%20Streaming%20Optimized)
+IT Streaming Optimized | [19](https://github.com/Lars-/PIA-servers/tree/master/regions/IT%20Streaming%20Optimized)
 JP Streaming Optimized | [1](https://github.com/Lars-/PIA-servers/tree/master/regions/JP%20Streaming%20Optimized)
 Malaysia | [9](https://github.com/Lars-/PIA-servers/tree/master/regions/Malaysia)
 Nepal | [14](https://github.com/Lars-/PIA-servers/tree/master/regions/Nepal)
