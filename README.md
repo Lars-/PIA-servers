@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-13720-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--05--05%2007%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-13717-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--05--05%2008%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -145,7 +145,7 @@ ES Valencia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/ES%20
 FI Streaming Optimized | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/FI%20Streaming%20Optimized)
 Guatemala | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/Guatemala)
 Indonesia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Indonesia)
-IT Streaming Optimized | [27](https://github.com/Lars-/PIA-servers/tree/master/regions/IT%20Streaming%20Optimized)
+IT Streaming Optimized | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/IT%20Streaming%20Optimized)
 JP Streaming Optimized | [1](https://github.com/Lars-/PIA-servers/tree/master/regions/JP%20Streaming%20Optimized)
 Malaysia | [9](https://github.com/Lars-/PIA-servers/tree/master/regions/Malaysia)
 Nepal | [14](https://github.com/Lars-/PIA-servers/tree/master/regions/Nepal)
