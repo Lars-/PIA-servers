@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-13706-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--05--07%2002%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-13702-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--05--07%2003%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -36,7 +36,7 @@ Region | Servers
 Albania | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Albania)
 Algeria | [38](https://github.com/Lars-/PIA-servers/tree/master/regions/Algeria)
 Andorra | [48](https://github.com/Lars-/PIA-servers/tree/master/regions/Andorra)
-Argentina | [72](https://github.com/Lars-/PIA-servers/tree/master/regions/Argentina)
+Argentina | [68](https://github.com/Lars-/PIA-servers/tree/master/regions/Argentina)
 Armenia | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Armenia)
 AU Melbourne | [11](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Melbourne)
 AU Perth | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Perth)
@@ -127,7 +127,7 @@ US Seattle | [16](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20
 US Silicon Valley | [564](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Silicon%20Valley)
 US Texas | [624](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Texas)
 US Washington Dc | [702](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Washington%20Dc)
-US West | [219](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West)
+US West | [218](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West)
 Venezuela | [59](https://github.com/Lars-/PIA-servers/tree/master/regions/Venezuela)
 Vietnam | [44](https://github.com/Lars-/PIA-servers/tree/master/regions/Vietnam)
 AU Adelaide | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Adelaide)
@@ -154,7 +154,7 @@ Peru | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/Peru)
 SE Streaming Optimized | [0](https://github.com/Lars-/PIA-servers/tree/master/regions/SE%20Streaming%20Optimized)
 Slovenia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Slovenia)
 South Korea | [14](https://github.com/Lars-/PIA-servers/tree/master/regions/South%20Korea)
-UK Streaming Optimized | [117](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Streaming%20Optimized)
+UK Streaming Optimized | [118](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Streaming%20Optimized)
 Uruguay | [56](https://github.com/Lars-/PIA-servers/tree/master/regions/Uruguay)
 US Alabama | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Alabama)
 US Alaska | [22](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Alaska)
