@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-13104-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--05--08%2012%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-13050-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--05--08%2013%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -50,7 +50,7 @@ Bulgaria | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Bulgaria
 CA Montreal | [555](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Montreal)
 CA Ontario | [320](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Ontario)
 CA Toronto | [575](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Toronto)
-CA Vancouver | [522](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Vancouver)
+CA Vancouver | [521](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Vancouver)
 Cambodia | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Cambodia)
 China | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/China)
 Cyprus | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Cyprus)
@@ -116,7 +116,7 @@ Ukraine | [59](https://github.com/Lars-/PIA-servers/tree/master/regions/Ukraine)
 United Arab Emirates | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/United%20Arab%20Emirates)
 US Atlanta | [693](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Atlanta)
 US California | [526](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20California)
-US Chicago | [720](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Chicago)
+US Chicago | [721](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Chicago)
 US Denver | [283](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Denver)
 US East | [687](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20East)
 US Florida | [448](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Florida)
@@ -127,7 +127,7 @@ US Seattle | [16](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20
 US Silicon Valley | [564](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Silicon%20Valley)
 US Texas | [623](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Texas)
 US Washington Dc | [698](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Washington%20Dc)
-US West | [32](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West)
+US West | [18](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West)
 Venezuela | [59](https://github.com/Lars-/PIA-servers/tree/master/regions/Venezuela)
 Vietnam | [44](https://github.com/Lars-/PIA-servers/tree/master/regions/Vietnam)
 AU Adelaide | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Adelaide)
@@ -158,9 +158,9 @@ UK Streaming Optimized | [118](https://github.com/Lars-/PIA-servers/tree/master/
 Uruguay | [56](https://github.com/Lars-/PIA-servers/tree/master/regions/Uruguay)
 US Alabama | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Alabama)
 US Alaska | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Alaska)
-US Arkansas | [19](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Arkansas)
+US Arkansas | [9](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Arkansas)
 US Baltimore | [62](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Baltimore)
-US Connecticut | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Connecticut)
+US Connecticut | [11](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Connecticut)
 US Honolulu | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Honolulu)
 US Idaho | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Idaho)
 US Indiana | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Indiana)
@@ -192,7 +192,7 @@ US Tennessee | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/US%2
 US Vermont | [22](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Vermont)
 US Virginia | [23](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Virginia)
 US West Virginia | [42](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West%20Virginia)
-US Wilmington | [30](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Wilmington)
+US Wilmington | [13](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Wilmington)
 US Wisconsin | [42](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Wisconsin)
 US Wyoming | [23](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Wyoming)
 US West Streaming Optimized | [21](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West%20Streaming%20Optimized)
