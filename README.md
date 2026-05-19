@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-12719-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--05--19%2005%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-12717-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--05--19%2006%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -88,7 +88,7 @@ Monaco | [22](https://github.com/Lars-/PIA-servers/tree/master/regions/Monaco)
 Mongolia | [12](https://github.com/Lars-/PIA-servers/tree/master/regions/Mongolia)
 Montenegro | [26](https://github.com/Lars-/PIA-servers/tree/master/regions/Montenegro)
 Morocco | [38](https://github.com/Lars-/PIA-servers/tree/master/regions/Morocco)
-Netherlands | [1051](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
+Netherlands | [1050](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
 New Zealand | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/New%20Zealand)
 Nigeria | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Nigeria)
 Norway | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/Norway)
@@ -139,7 +139,7 @@ Chile | [36](https://github.com/Lars-/PIA-servers/tree/master/regions/Chile)
 Colombia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Colombia)
 Costa Rica | [35](https://github.com/Lars-/PIA-servers/tree/master/regions/Costa%20Rica)
 Croatia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Croatia)
-DK Streaming Optimized | [27](https://github.com/Lars-/PIA-servers/tree/master/regions/DK%20Streaming%20Optimized)
+DK Streaming Optimized | [26](https://github.com/Lars-/PIA-servers/tree/master/regions/DK%20Streaming%20Optimized)
 Ecuador | [57](https://github.com/Lars-/PIA-servers/tree/master/regions/Ecuador)
 ES Valencia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/ES%20Valencia)
 FI Streaming Optimized | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/FI%20Streaming%20Optimized)
