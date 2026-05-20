@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-12701-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--05--20%2018%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-12693-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--05--20%2019%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -121,7 +121,7 @@ US Denver | [283](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20
 US East | [691](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20East)
 US Florida | [448](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Florida)
 US Houston | [196](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Houston)
-US Las Vegas | [536](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Las%20Vegas)
+US Las Vegas | [535](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Las%20Vegas)
 US New York | [725](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20New%20York)
 US Seattle | [16](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Seattle)
 US Silicon Valley | [573](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Silicon%20Valley)
@@ -181,9 +181,9 @@ US New Mexico | [19](https://github.com/Lars-/PIA-servers/tree/master/regions/US
 US North Carolina | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20North%20Carolina)
 US North Dakota | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20North%20Dakota)
 US Ohio | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Ohio)
-US Oklahoma | [22](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Oklahoma)
+US Oklahoma | [21](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Oklahoma)
 US Oregon | [22](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Oregon)
-US Pennsylvania | [52](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Pennsylvania)
+US Pennsylvania | [49](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Pennsylvania)
 US Rhode Island | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Rhode%20Island)
 US Salt Lake City | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Salt%20Lake%20City)
 US South Carolina | [33](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20South%20Carolina)
@@ -191,9 +191,9 @@ US South Dakota | [22](https://github.com/Lars-/PIA-servers/tree/master/regions/
 US Tennessee | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Tennessee)
 US Vermont | [22](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Vermont)
 US Virginia | [23](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Virginia)
-US West Virginia | [41](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West%20Virginia)
+US West Virginia | [39](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West%20Virginia)
 US Wilmington | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Wilmington)
-US Wisconsin | [41](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Wisconsin)
+US Wisconsin | [40](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Wisconsin)
 US Wyoming | [23](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Wyoming)
 US West Streaming Optimized | [21](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West%20Streaming%20Optimized)
 DE Germany Streaming Optimized | [42](https://github.com/Lars-/PIA-servers/tree/master/regions/DE%20Germany%20Streaming%20Optimized)
