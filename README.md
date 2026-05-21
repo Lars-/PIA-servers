@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-12348-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--05--21%2005%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-12344-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--05--21%2006%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -47,7 +47,7 @@ Bangladesh | [31](https://github.com/Lars-/PIA-servers/tree/master/regions/Bangl
 Belgium | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/Belgium)
 Brazil | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Brazil)
 Bulgaria | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Bulgaria)
-CA Montreal | [569](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Montreal)
+CA Montreal | [570](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Montreal)
 CA Ontario | [320](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Ontario)
 CA Toronto | [574](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Toronto)
 CA Vancouver | [524](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Vancouver)
@@ -107,7 +107,7 @@ Spain | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/Spain)
 Sri Lanka | [22](https://github.com/Lars-/PIA-servers/tree/master/regions/Sri%20Lanka)
 Sweden | [9](https://github.com/Lars-/PIA-servers/tree/master/regions/Sweden)
 Switzerland | [311](https://github.com/Lars-/PIA-servers/tree/master/regions/Switzerland)
-Taiwan | [10](https://github.com/Lars-/PIA-servers/tree/master/regions/Taiwan)
+Taiwan | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/Taiwan)
 Turkey | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Turkey)
 UK London | [18](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20London)
 UK Manchester | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Manchester)
