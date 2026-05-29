@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-11931-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--05--29%2011%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-11932-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--05--29%2012%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -35,7 +35,7 @@ Region | Servers
 ------ |--------
 Albania | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Albania)
 Algeria | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Algeria)
-Andorra | [48](https://github.com/Lars-/PIA-servers/tree/master/regions/Andorra)
+Andorra | [49](https://github.com/Lars-/PIA-servers/tree/master/regions/Andorra)
 Argentina | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/Argentina)
 Armenia | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Armenia)
 AU Melbourne | [11](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Melbourne)
