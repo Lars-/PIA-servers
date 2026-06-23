@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-12009-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--06--23%2016%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-12006-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--06--23%2017%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -104,7 +104,7 @@ Singapore | [38](https://github.com/Lars-/PIA-servers/tree/master/regions/Singap
 Slovakia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Slovakia)
 South Africa | [30](https://github.com/Lars-/PIA-servers/tree/master/regions/South%20Africa)
 Spain | [34](https://github.com/Lars-/PIA-servers/tree/master/regions/Spain)
-Sri Lanka | [14](https://github.com/Lars-/PIA-servers/tree/master/regions/Sri%20Lanka)
+Sri Lanka | [12](https://github.com/Lars-/PIA-servers/tree/master/regions/Sri%20Lanka)
 Sweden | [9](https://github.com/Lars-/PIA-servers/tree/master/regions/Sweden)
 Switzerland | [11](https://github.com/Lars-/PIA-servers/tree/master/regions/Switzerland)
 Taiwan | [35](https://github.com/Lars-/PIA-servers/tree/master/regions/Taiwan)
@@ -120,7 +120,7 @@ US Chicago | [767](https://github.com/Lars-/PIA-servers/tree/master/regions/US%2
 US Denver | [283](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Denver)
 US East | [691](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20East)
 US Florida | [448](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Florida)
-US Houston | [202](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Houston)
+US Houston | [201](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Houston)
 US Las Vegas | [517](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Las%20Vegas)
 US New York | [725](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20New%20York)
 US Seattle | [50](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Seattle)
