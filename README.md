@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-11329-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--06--29%2016%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-11332-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--06--29%2017%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -147,7 +147,7 @@ Guatemala | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/Guatem
 Indonesia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Indonesia)
 IT Streaming Optimized | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/IT%20Streaming%20Optimized)
 JP Streaming Optimized | [1](https://github.com/Lars-/PIA-servers/tree/master/regions/JP%20Streaming%20Optimized)
-Malaysia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Malaysia)
+Malaysia | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/Malaysia)
 Nepal | [14](https://github.com/Lars-/PIA-servers/tree/master/regions/Nepal)
 NL Netherlands Streaming Optimized | [66](https://github.com/Lars-/PIA-servers/tree/master/regions/NL%20Netherlands%20Streaming%20Optimized)
 Peru | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/Peru)
