@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-11324-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--06--30%2022%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-11322-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--06--30%2023%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -88,7 +88,7 @@ Monaco | [22](https://github.com/Lars-/PIA-servers/tree/master/regions/Monaco)
 Mongolia | [12](https://github.com/Lars-/PIA-servers/tree/master/regions/Mongolia)
 Montenegro | [26](https://github.com/Lars-/PIA-servers/tree/master/regions/Montenegro)
 Morocco | [38](https://github.com/Lars-/PIA-servers/tree/master/regions/Morocco)
-Netherlands | [1056](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
+Netherlands | [1055](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
 New Zealand | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/New%20Zealand)
 Nigeria | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Nigeria)
 Norway | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/Norway)
@@ -183,7 +183,7 @@ US North Dakota | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/U
 US Ohio | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Ohio)
 US Oklahoma | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Oklahoma)
 US Oregon | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Oregon)
-US Pennsylvania | [43](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Pennsylvania)
+US Pennsylvania | [42](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Pennsylvania)
 US Rhode Island | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Rhode%20Island)
 US Salt Lake City | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Salt%20Lake%20City)
 US South Carolina | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20South%20Carolina)
