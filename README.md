@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-10302-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--07--24%2009%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-10304-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--07--24%2010%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -186,7 +186,7 @@ US Oregon | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Or
 US Pennsylvania | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Pennsylvania)
 US Rhode Island | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Rhode%20Island)
 US Salt Lake City | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Salt%20Lake%20City)
-US South Carolina | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20South%20Carolina)
+US South Carolina | [6](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20South%20Carolina)
 US South Dakota | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20South%20Dakota)
 US Tennessee | [8](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Tennessee)
 US Vermont | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Vermont)
