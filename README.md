@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-8440-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--08--04%2009%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-8436-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--08--04%2010%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -156,7 +156,7 @@ Slovenia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Slovenia
 South Korea | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/South%20Korea)
 UK Streaming Optimized | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Streaming%20Optimized)
 Uruguay | [56](https://github.com/Lars-/PIA-servers/tree/master/regions/Uruguay)
-US Alabama | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Alabama)
+US Alabama | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Alabama)
 US Alaska | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Alaska)
 US Arkansas | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Arkansas)
 US Baltimore | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Baltimore)
@@ -188,7 +188,7 @@ US Rhode Island | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/U
 US Salt Lake City | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Salt%20Lake%20City)
 US South Carolina | [6](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20South%20Carolina)
 US South Dakota | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20South%20Dakota)
-US Tennessee | [8](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Tennessee)
+US Tennessee | [6](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Tennessee)
 US Vermont | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Vermont)
 US Virginia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Virginia)
 US West Virginia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West%20Virginia)
