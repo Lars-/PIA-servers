@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-8409-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--08--05%2012%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-8410-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--08--05%2013%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -108,7 +108,7 @@ Sri Lanka | [11](https://github.com/Lars-/PIA-servers/tree/master/regions/Sri%20
 Sweden | [9](https://github.com/Lars-/PIA-servers/tree/master/regions/Sweden)
 Switzerland | [11](https://github.com/Lars-/PIA-servers/tree/master/regions/Switzerland)
 Taiwan | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Taiwan)
-Turkey | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Turkey)
+Turkey | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/Turkey)
 UK London | [12](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20London)
 UK Manchester | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Manchester)
 UK Southampton | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Southampton)
