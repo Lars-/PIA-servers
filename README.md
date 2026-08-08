@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-8381-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--08--08%2008%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-8376-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--08--08%2009%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -119,7 +119,7 @@ US California | [499](https://github.com/Lars-/PIA-servers/tree/master/regions/U
 US Chicago | [13](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Chicago)
 US Denver | [283](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Denver)
 US East | [691](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20East)
-US Florida | [399](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Florida)
+US Florida | [398](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Florida)
 US Houston | [6](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Houston)
 US Las Vegas | [517](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Las%20Vegas)
 US New York | [725](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20New%20York)
@@ -186,9 +186,9 @@ US Oregon | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Or
 US Pennsylvania | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Pennsylvania)
 US Rhode Island | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Rhode%20Island)
 US Salt Lake City | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Salt%20Lake%20City)
-US South Carolina | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20South%20Carolina)
+US South Carolina | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20South%20Carolina)
 US South Dakota | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20South%20Dakota)
-US Tennessee | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Tennessee)
+US Tennessee | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Tennessee)
 US Vermont | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Vermont)
 US Virginia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Virginia)
 US West Virginia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West%20Virginia)
