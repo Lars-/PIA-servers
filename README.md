@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-8321-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--08--11%2016%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-8319-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--08--11%2017%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -124,7 +124,7 @@ US Houston | [6](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20H
 US Las Vegas | [517](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Las%20Vegas)
 US New York | [725](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20New%20York)
 US Seattle | [16](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Seattle)
-US Silicon Valley | [55](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Silicon%20Valley)
+US Silicon Valley | [54](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Silicon%20Valley)
 US Texas | [34](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Texas)
 US Washington Dc | [703](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Washington%20Dc)
 US West | [6](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West)
@@ -195,7 +195,7 @@ US West Virginia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/
 US Wilmington | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Wilmington)
 US Wisconsin | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Wisconsin)
 US Wyoming | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Wyoming)
-US West Streaming Optimized | [21](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West%20Streaming%20Optimized)
+US West Streaming Optimized | [20](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West%20Streaming%20Optimized)
 DE Germany Streaming Optimized | [0](https://github.com/Lars-/PIA-servers/tree/master/regions/DE%20Germany%20Streaming%20Optimized)
 North Macedonia | [1](https://github.com/Lars-/PIA-servers/tree/master/regions/North%20Macedonia)
 
