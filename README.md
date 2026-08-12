@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-8296-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--08--12%2007%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-8292-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--08--12%2008%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -195,7 +195,7 @@ US West Virginia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/
 US Wilmington | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Wilmington)
 US Wisconsin | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Wisconsin)
 US Wyoming | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Wyoming)
-US West Streaming Optimized | [18](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West%20Streaming%20Optimized)
+US West Streaming Optimized | [14](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West%20Streaming%20Optimized)
 DE Germany Streaming Optimized | [0](https://github.com/Lars-/PIA-servers/tree/master/regions/DE%20Germany%20Streaming%20Optimized)
 North Macedonia | [1](https://github.com/Lars-/PIA-servers/tree/master/regions/North%20Macedonia)
 
