@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-8153-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--08--15%2003%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-8150-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--08--15%2004%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -37,7 +37,7 @@ Albania | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Albania)
 Algeria | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/Algeria)
 Andorra | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Andorra)
 Argentina | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/Argentina)
-Armenia | [26](https://github.com/Lars-/PIA-servers/tree/master/regions/Armenia)
+Armenia | [25](https://github.com/Lars-/PIA-servers/tree/master/regions/Armenia)
 AU Melbourne | [11](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Melbourne)
 AU Perth | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Perth)
 AU Sydney | [6](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Sydney)
@@ -81,7 +81,7 @@ Lithuania | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Lithuan
 Luxembourg | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Luxembourg)
 Macao | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/Macao)
 Macedonia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Macedonia)
-Malta | [39](https://github.com/Lars-/PIA-servers/tree/master/regions/Malta)
+Malta | [37](https://github.com/Lars-/PIA-servers/tree/master/regions/Malta)
 Mexico | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/Mexico)
 Moldova | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Moldova)
 Monaco | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Monaco)
