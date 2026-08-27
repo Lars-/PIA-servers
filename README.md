@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-7931-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--08--27%2010%3A07%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-7924-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--08--27%2011%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -51,7 +51,7 @@ CA Montreal | [565](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%
 CA Ontario | [14](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Ontario)
 CA Toronto | [575](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Toronto)
 CA Vancouver | [524](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Vancouver)
-Cambodia | [26](https://github.com/Lars-/PIA-servers/tree/master/regions/Cambodia)
+Cambodia | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Cambodia)
 China | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/China)
 Cyprus | [24](https://github.com/Lars-/PIA-servers/tree/master/regions/Cyprus)
 Czech Republic | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Czech%20Republic)
@@ -129,7 +129,7 @@ US Texas | [34](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Te
 US Washington Dc | [698](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Washington%20Dc)
 US West | [6](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West)
 Venezuela | [65](https://github.com/Lars-/PIA-servers/tree/master/regions/Venezuela)
-Vietnam | [37](https://github.com/Lars-/PIA-servers/tree/master/regions/Vietnam)
+Vietnam | [32](https://github.com/Lars-/PIA-servers/tree/master/regions/Vietnam)
 AU Adelaide | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Adelaide)
 AU Brisbane | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Brisbane)
 Australia Streaming Optimized | [0](https://github.com/Lars-/PIA-servers/tree/master/regions/Australia%20Streaming%20Optimized)
