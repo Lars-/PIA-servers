@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-7827-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--08--29%2008%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-7815-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--08--29%2009%3A02%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -65,7 +65,7 @@ France | [7](https://github.com/Lars-/PIA-servers/tree/master/regions/France)
 Georgia | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Georgia)
 Greece | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Greece)
 Greenland | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/Greenland)
-Hong Kong | [28](https://github.com/Lars-/PIA-servers/tree/master/regions/Hong%20Kong)
+Hong Kong | [22](https://github.com/Lars-/PIA-servers/tree/master/regions/Hong%20Kong)
 Hungary | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Hungary)
 Iceland | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Iceland)
 India | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/India)
@@ -85,10 +85,10 @@ Malta | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Malta)
 Mexico | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/Mexico)
 Moldova | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Moldova)
 Monaco | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Monaco)
-Mongolia | [14](https://github.com/Lars-/PIA-servers/tree/master/regions/Mongolia)
+Mongolia | [13](https://github.com/Lars-/PIA-servers/tree/master/regions/Mongolia)
 Montenegro | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Montenegro)
 Morocco | [38](https://github.com/Lars-/PIA-servers/tree/master/regions/Morocco)
-Netherlands | [1055](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
+Netherlands | [1056](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
 New Zealand | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/New%20Zealand)
 Nigeria | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Nigeria)
 Norway | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/Norway)
@@ -148,7 +148,7 @@ Indonesia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Indones
 IT Streaming Optimized | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/IT%20Streaming%20Optimized)
 JP Streaming Optimized | [1](https://github.com/Lars-/PIA-servers/tree/master/regions/JP%20Streaming%20Optimized)
 Malaysia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Malaysia)
-Nepal | [11](https://github.com/Lars-/PIA-servers/tree/master/regions/Nepal)
+Nepal | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/Nepal)
 NL Netherlands Streaming Optimized | [66](https://github.com/Lars-/PIA-servers/tree/master/regions/NL%20Netherlands%20Streaming%20Optimized)
 Peru | [32](https://github.com/Lars-/PIA-servers/tree/master/regions/Peru)
 SE Streaming Optimized | [0](https://github.com/Lars-/PIA-servers/tree/master/regions/SE%20Streaming%20Optimized)
