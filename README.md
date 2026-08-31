@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-7784-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--08--31%2008%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-7786-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--08--31%2009%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -82,7 +82,7 @@ Luxembourg | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Luxemb
 Macao | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Macao)
 Macedonia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Macedonia)
 Malta | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Malta)
-Mexico | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/Mexico)
+Mexico | [9](https://github.com/Lars-/PIA-servers/tree/master/regions/Mexico)
 Moldova | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Moldova)
 Monaco | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Monaco)
 Mongolia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Mongolia)
@@ -193,7 +193,7 @@ US Vermont | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20V
 US Virginia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Virginia)
 US West Virginia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West%20Virginia)
 US Wilmington | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Wilmington)
-US Wisconsin | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Wisconsin)
+US Wisconsin | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Wisconsin)
 US Wyoming | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Wyoming)
 US West Streaming Optimized | [0](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West%20Streaming%20Optimized)
 DE Germany Streaming Optimized | [0](https://github.com/Lars-/PIA-servers/tree/master/regions/DE%20Germany%20Streaming%20Optimized)
