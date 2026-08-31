@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-7783-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--08--31%2002%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-7784-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--08--31%2003%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -71,7 +71,7 @@ Iceland | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Iceland)
 India | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/India)
 Ireland | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Ireland)
 Isle Of Man | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Isle%20Of%20Man)
-Israel | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Israel)
+Israel | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Israel)
 Italy | [6](https://github.com/Lars-/PIA-servers/tree/master/regions/Italy)
 Japan | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/Japan)
 Kazakhstan | [27](https://github.com/Lars-/PIA-servers/tree/master/regions/Kazakhstan)
