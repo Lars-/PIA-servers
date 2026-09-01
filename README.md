@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-7801-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--09--01%2022%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-7798-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--09--01%2023%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -140,7 +140,7 @@ Colombia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Colombia
 Costa Rica | [41](https://github.com/Lars-/PIA-servers/tree/master/regions/Costa%20Rica)
 Croatia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Croatia)
 DK Streaming Optimized | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/DK%20Streaming%20Optimized)
-Ecuador | [63](https://github.com/Lars-/PIA-servers/tree/master/regions/Ecuador)
+Ecuador | [60](https://github.com/Lars-/PIA-servers/tree/master/regions/Ecuador)
 ES Valencia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/ES%20Valencia)
 FI Streaming Optimized | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/FI%20Streaming%20Optimized)
 Guatemala | [34](https://github.com/Lars-/PIA-servers/tree/master/regions/Guatemala)
