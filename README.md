@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-7792-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--09--02%2002%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-7788-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--09--02%2003%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -140,10 +140,10 @@ Colombia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Colombia
 Costa Rica | [41](https://github.com/Lars-/PIA-servers/tree/master/regions/Costa%20Rica)
 Croatia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Croatia)
 DK Streaming Optimized | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/DK%20Streaming%20Optimized)
-Ecuador | [58](https://github.com/Lars-/PIA-servers/tree/master/regions/Ecuador)
+Ecuador | [57](https://github.com/Lars-/PIA-servers/tree/master/regions/Ecuador)
 ES Valencia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/ES%20Valencia)
 FI Streaming Optimized | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/FI%20Streaming%20Optimized)
-Guatemala | [34](https://github.com/Lars-/PIA-servers/tree/master/regions/Guatemala)
+Guatemala | [33](https://github.com/Lars-/PIA-servers/tree/master/regions/Guatemala)
 Indonesia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Indonesia)
 IT Streaming Optimized | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/IT%20Streaming%20Optimized)
 JP Streaming Optimized | [1](https://github.com/Lars-/PIA-servers/tree/master/regions/JP%20Streaming%20Optimized)
@@ -155,7 +155,7 @@ SE Streaming Optimized | [0](https://github.com/Lars-/PIA-servers/tree/master/re
 Slovenia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Slovenia)
 South Korea | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/South%20Korea)
 UK Streaming Optimized | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Streaming%20Optimized)
-Uruguay | [58](https://github.com/Lars-/PIA-servers/tree/master/regions/Uruguay)
+Uruguay | [56](https://github.com/Lars-/PIA-servers/tree/master/regions/Uruguay)
 US Alabama | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Alabama)
 US Alaska | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Alaska)
 US Arkansas | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Arkansas)
