@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-7450-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--09--03%2022%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-7449-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--09--03%2023%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -92,7 +92,7 @@ Netherlands | [1054](https://github.com/Lars-/PIA-servers/tree/master/regions/Ne
 New Zealand | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/New%20Zealand)
 Nigeria | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Nigeria)
 Norway | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/Norway)
-Panama | [90](https://github.com/Lars-/PIA-servers/tree/master/regions/Panama)
+Panama | [89](https://github.com/Lars-/PIA-servers/tree/master/regions/Panama)
 Philippines | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Philippines)
 Poland | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/Poland)
 Portugal | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Portugal)
