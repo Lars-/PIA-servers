@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-7191-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--09--24%2013%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-7198-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--09--24%2014%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -88,7 +88,7 @@ Monaco | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Monaco)
 Mongolia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Mongolia)
 Montenegro | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Montenegro)
 Morocco | [38](https://github.com/Lars-/PIA-servers/tree/master/regions/Morocco)
-Netherlands | [1051](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
+Netherlands | [1052](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
 New Zealand | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/New%20Zealand)
 Nigeria | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Nigeria)
 Norway | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/Norway)
@@ -187,14 +187,14 @@ US Pennsylvania | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/U
 US Rhode Island | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Rhode%20Island)
 US Salt Lake City | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Salt%20Lake%20City)
 US South Carolina | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20South%20Carolina)
-US South Dakota | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20South%20Dakota)
+US South Dakota | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20South%20Dakota)
 US Tennessee | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Tennessee)
 US Vermont | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Vermont)
 US Virginia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Virginia)
 US West Virginia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West%20Virginia)
 US Wilmington | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Wilmington)
 US Wisconsin | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Wisconsin)
-US Wyoming | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Wyoming)
+US Wyoming | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Wyoming)
 US West Streaming Optimized | [0](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West%20Streaming%20Optimized)
 DE Germany Streaming Optimized | [0](https://github.com/Lars-/PIA-servers/tree/master/regions/DE%20Germany%20Streaming%20Optimized)
 North Macedonia | [1](https://github.com/Lars-/PIA-servers/tree/master/regions/North%20Macedonia)
