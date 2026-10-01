@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-6733-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--10--01%2018%3A24%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-6719-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--10--01%2019%3A18%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -121,12 +121,12 @@ US Denver | [283](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20
 US East | [691](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20East)
 US Florida | [358](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Florida)
 US Houston | [6](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Houston)
-US Las Vegas | [490](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Las%20Vegas)
+US Las Vegas | [489](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Las%20Vegas)
 US New York | [725](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20New%20York)
 US Seattle | [16](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Seattle)
 US Silicon Valley | [13](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Silicon%20Valley)
 US Texas | [34](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Texas)
-US Washington Dc | [248](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Washington%20Dc)
+US Washington Dc | [235](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Washington%20Dc)
 US West | [6](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West)
 Venezuela | [6](https://github.com/Lars-/PIA-servers/tree/master/regions/Venezuela)
 Vietnam | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Vietnam)
