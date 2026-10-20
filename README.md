@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-5323-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--10--20%2013%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-5304-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--10--20%2014%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -53,7 +53,7 @@ CA Toronto | [16](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20
 CA Vancouver | [523](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Vancouver)
 Cambodia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Cambodia)
 China | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/China)
-Cyprus | [22](https://github.com/Lars-/PIA-servers/tree/master/regions/Cyprus)
+Cyprus | [12](https://github.com/Lars-/PIA-servers/tree/master/regions/Cyprus)
 Czech Republic | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Czech%20Republic)
 DE Berlin | [6](https://github.com/Lars-/PIA-servers/tree/master/regions/DE%20Berlin)
 DE Frankfurt | [9](https://github.com/Lars-/PIA-servers/tree/master/regions/DE%20Frankfurt)
@@ -87,8 +87,8 @@ Moldova | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Moldova)
 Monaco | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Monaco)
 Mongolia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Mongolia)
 Montenegro | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Montenegro)
-Morocco | [22](https://github.com/Lars-/PIA-servers/tree/master/regions/Morocco)
-Netherlands | [1012](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
+Morocco | [12](https://github.com/Lars-/PIA-servers/tree/master/regions/Morocco)
+Netherlands | [1013](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
 New Zealand | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/New%20Zealand)
 Nigeria | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Nigeria)
 Norway | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/Norway)
