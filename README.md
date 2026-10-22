@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-5292-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--10--22%2004%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-5286-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--10--22%2005%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -43,7 +43,7 @@ AU Perth | [6](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Per
 AU Sydney | [11](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Sydney)
 Austria | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Austria)
 Bahamas | [6](https://github.com/Lars-/PIA-servers/tree/master/regions/Bahamas)
-Bangladesh | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/Bangladesh)
+Bangladesh | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Bangladesh)
 Belgium | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/Belgium)
 Brazil | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/Brazil)
 Bulgaria | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Bulgaria)
@@ -68,7 +68,7 @@ Greenland | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Greenla
 Hong Kong | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Hong%20Kong)
 Hungary | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Hungary)
 Iceland | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Iceland)
-India | [6](https://github.com/Lars-/PIA-servers/tree/master/regions/India)
+India | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/India)
 Ireland | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Ireland)
 Isle Of Man | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Isle%20Of%20Man)
 Israel | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Israel)
