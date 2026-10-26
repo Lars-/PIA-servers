@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-5293-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--10--26%2010%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-5294-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--10--26%2011%3A03%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -130,7 +130,7 @@ US Washington Dc | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/
 US West | [6](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20West)
 Venezuela | [6](https://github.com/Lars-/PIA-servers/tree/master/regions/Venezuela)
 Vietnam | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Vietnam)
-AU Adelaide | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Adelaide)
+AU Adelaide | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Adelaide)
 AU Brisbane | [6](https://github.com/Lars-/PIA-servers/tree/master/regions/AU%20Brisbane)
 Australia Streaming Optimized | [0](https://github.com/Lars-/PIA-servers/tree/master/regions/Australia%20Streaming%20Optimized)
 Bolivia | [6](https://github.com/Lars-/PIA-servers/tree/master/regions/Bolivia)
