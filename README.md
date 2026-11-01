@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-5375-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--11--01%2023%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-5375-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--11--02%2000%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -88,7 +88,7 @@ Monaco | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Monaco)
 Mongolia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Mongolia)
 Montenegro | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Montenegro)
 Morocco | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/Morocco)
-Netherlands | [1000](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
+Netherlands | [999](https://github.com/Lars-/PIA-servers/tree/master/regions/Netherlands)
 New Zealand | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/New%20Zealand)
 Nigeria | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/Nigeria)
 Norway | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/Norway)
@@ -224,7 +224,7 @@ Trinidad and Tobago | [2](https://github.com/Lars-/PIA-servers/tree/master/regio
 UK Tottenham | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Tottenham)
 US Brooklyn | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Brooklyn)
 Uzbekistan | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Uzbekistan)
-CH Streaming Optimized | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/CH%20Streaming%20Optimized)
+CH Streaming Optimized | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/CH%20Streaming%20Optimized)
 AT Streaming Optimized | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/AT%20Streaming%20Optimized)
 FR Streaming Optimized | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/FR%20Streaming%20Optimized)
 ES Streaming Optimized | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/ES%20Streaming%20Optimized)
