@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-5585-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--11--19%2009%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-5586-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--11--19%2010%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -105,7 +105,7 @@ Slovakia | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Slovakia
 South Africa | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/South%20Africa)
 Spain | [8](https://github.com/Lars-/PIA-servers/tree/master/regions/Spain)
 Sri Lanka | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Sri%20Lanka)
-Sweden | [12](https://github.com/Lars-/PIA-servers/tree/master/regions/Sweden)
+Sweden | [13](https://github.com/Lars-/PIA-servers/tree/master/regions/Sweden)
 Switzerland | [11](https://github.com/Lars-/PIA-servers/tree/master/regions/Switzerland)
 Taiwan | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Taiwan)
 Turkey | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Turkey)
