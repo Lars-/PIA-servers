@@ -1,7 +1,7 @@
 # PIA Servers
 This repository contains an automatically updated list of all Private Internet Access servers.
 
-![Servers](https://img.shields.io/badge/servers-5112-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--11--26%2012%3A01%20CET-brightgreen)
+![Servers](https://img.shields.io/badge/servers-5122-brightgreen) ![Last update](https://img.shields.io/badge/last%20update-2026--11--26%2013%3A01%20CET-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -47,7 +47,7 @@ Bangladesh | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Bangla
 Belgium | [6](https://github.com/Lars-/PIA-servers/tree/master/regions/Belgium)
 Brazil | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/Brazil)
 Bulgaria | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/Bulgaria)
-CA Montreal | [456](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Montreal)
+CA Montreal | [457](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Montreal)
 CA Ontario | [14](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Ontario)
 CA Toronto | [18](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Toronto)
 CA Vancouver | [461](https://github.com/Lars-/PIA-servers/tree/master/regions/CA%20Vancouver)
@@ -110,7 +110,7 @@ Switzerland | [11](https://github.com/Lars-/PIA-servers/tree/master/regions/Swit
 Taiwan | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Taiwan)
 Turkey | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Turkey)
 UK London | [12](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20London)
-UK Manchester | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Manchester)
+UK Manchester | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Manchester)
 UK Southampton | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%20Southampton)
 Ukraine | [8](https://github.com/Lars-/PIA-servers/tree/master/regions/Ukraine)
 United Arab Emirates | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/United%20Arab%20Emirates)
@@ -118,7 +118,7 @@ US Atlanta | [15](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20
 US California | [486](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20California)
 US Chicago | [13](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Chicago)
 US Denver | [291](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Denver)
-US East | [689](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20East)
+US East | [699](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20East)
 US Florida | [377](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Florida)
 US Houston | [6](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Houston)
 US Las Vegas | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Las%20Vegas)
@@ -225,7 +225,7 @@ UK Tottenham | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/UK%2
 US Brooklyn | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/US%20Brooklyn)
 Uzbekistan | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/Uzbekistan)
 CH Streaming Optimized | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/CH%20Streaming%20Optimized)
-AT Streaming Optimized | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/AT%20Streaming%20Optimized)
+AT Streaming Optimized | [1](https://github.com/Lars-/PIA-servers/tree/master/regions/AT%20Streaming%20Optimized)
 FR Streaming Optimized | [4](https://github.com/Lars-/PIA-servers/tree/master/regions/FR%20Streaming%20Optimized)
 ES Streaming Optimized | [5](https://github.com/Lars-/PIA-servers/tree/master/regions/ES%20Streaming%20Optimized)
 SG Streaming Optimized | [3](https://github.com/Lars-/PIA-servers/tree/master/regions/SG%20Streaming%20Optimized)
@@ -239,7 +239,7 @@ AR Streaming Optimized | [3](https://github.com/Lars-/PIA-servers/tree/master/re
 IL Streaming Optimized | [1](https://github.com/Lars-/PIA-servers/tree/master/regions/IL%20Streaming%20Optimized)
 ZA Streaming Optimized | [1](https://github.com/Lars-/PIA-servers/tree/master/regions/ZA%20Streaming%20Optimized)
 HU Streaming Optimized | [1](https://github.com/Lars-/PIA-servers/tree/master/regions/HU%20Streaming%20Optimized)
-LT Streaming Optimized | [2](https://github.com/Lars-/PIA-servers/tree/master/regions/LT%20Streaming%20Optimized)
+LT Streaming Optimized | [1](https://github.com/Lars-/PIA-servers/tree/master/regions/LT%20Streaming%20Optimized)
 PT Streaming Optimized | [1](https://github.com/Lars-/PIA-servers/tree/master/regions/PT%20Streaming%20Optimized)
 TW Streaming Optimized | [1](https://github.com/Lars-/PIA-servers/tree/master/regions/TW%20Streaming%20Optimized)
 SK Streaming Optimized | [1](https://github.com/Lars-/PIA-servers/tree/master/regions/SK%20Streaming%20Optimized)
